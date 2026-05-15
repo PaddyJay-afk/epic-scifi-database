@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Epic Sci-Fi Film Database</title>
+    <style>
+        :root {
+            --bg: #0a0a0f;
+            --card: #12121a;
+            --accent: #00d4aa;
+            --accent2: #ff3366;
+            --text: #e0e0e0;
+            --muted: #888;
+            --border: #1e1e2e;
+        }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            min-height: 100vh;
+        }
+        header {
+            background: linear-gradient(135deg, #0a0a0f 0%, #1a1a2e 100%);
+            padding: 2rem 1rem;
+            text-align: center;
+            border-bottom: 1px solid var(--border);
+        }
+        header h1 {
+            font-size: 2.5rem;
+            background: linear-gradient(90deg, var(--accent), var(--accent2));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 0.5rem;
+        }
+        header p { color: var(--muted); font-size: 1.1rem; }
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            margin-top: 1rem;
+            flex-wrap: wrap;
+        }
+        .stat { text-align: center; }
+        .stat-value { font-size: 1.5rem; font-weight: 700; color: var(--accent); }
+        .stat-label { font-size: 0.8rem; color: var(--muted); text-transform: uppercase; }
+        .controls {
+            max-width: 1200px;
+            margin: 1.5rem auto;
+            padding: 0 1rem;
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+        input, select {
+            background: var(--card);
+            border: 1px solid var(--border);
+            color: var(--text);
+            padding: 0.6rem 1rem;
+            border-radius: 8px;
+            font-size: 1rem;
+            outline: none;
+        }
+        input:focus, select:focus { border-color: var(--accent); }
+        input[type="text"] { flex: 1; min-width: 200px; }
+        .tag-filters {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+        }
+        .tag-btn {
+            background: var(--card);
+            border: 1px solid var(--border);
+            color: var(--muted);
+            padding: 0.4rem 0.8rem;
+            border-radius: 20px;
+            cursor: pointer;
+            font-size: 0.85rem;
+            transition: all 0.2s;
+        }
+        .tag-btn:hover, .tag-btn.active {
+            border-color: var(--accent);
+            color: var(--accent);
+            background: rgba(0,212,170,0.1);
+        }
+        .grid {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 1rem 3rem;
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 1rem;
+        }
+        .film-card {
+            background: var(--card);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 1.2rem;
+            transition: transform 0.2s, border-color 0.2s;
+        }
+        .film-card:hover {
+            transform: translateY(-2px);
+            border-color: var(--accent);
+        }
+        .film-title {
+            font-size: 1.15rem;
+            font-weight: 700;
+            margin-bottom: 0.2rem;
+        }
+        .film-meta {
+            display: flex;
+            gap: 0.8rem;
+            margin-bottom: 0.5rem;
+            flex-wrap: wrap;
+        }
+        .badge {
+            font-size: 0.75rem;
+            padding: 0.15rem 0.5rem;
+            border-radius: 4px;
+            font-weight: 600;
+        }
+        .badge-year { background: #2a2a3e; color: #aaa; }
+        .badge-imdb { background: #f5c51833; color: #f5c518; }
+        .badge-platform { background: var(--accent); color: #000; }
+        .badge-alien { background: var(--accent2); color: #fff; font-size: 0.65rem; }
+        .badge-writing { background: #4a9eff33; color: #4a9eff; font-size: 0.65rem; }
+        .film-subgenre { color: var(--muted); font-size: 0.85rem; margin-bottom: 0.4rem; }
+        .film-director { color: var(--muted); font-size: 0.8rem; }
+        .hidden { display: none !important; }
+        footer {
+            text-align: center;
+            padding: 2rem;
+            color: var(--muted);
+            border-top: 1px solid var(--border);
+        }
+        @media (max-width: 600px) {
+            header h1 { font-size: 1.8rem; }
+            .controls { flex-direction: column; align-items: stretch; }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>🎬 Epic Sci-Fi Database</h1>
+        <p>Top-rated cinematic science fiction films streaming now</p>
+        <div class="stats">
+            <div class="stat"><div class="stat-value" id="stat-total">0</div><div class="stat-label">Films</div></div>
+            <div class="stat"><div class="stat-value" id="stat-avg">0</div><div class="stat-label">Avg IMDb</div></div>
+            <div class="stat"><div class="stat-value" id="stat-aliens">0</div><div class="stat-label">With Aliens</div></div>
+            <div class="stat"><div class="stat-value" id="stat-writing">0</div><div class="stat-label">Strong Writing</div></div>
+        </div>
+    </header>
+
+    <div class="controls">
+        <input type="text" id="search" placeholder="Search title, director, subgenre...">
+        <select id="platform-filter">
+            <option value="">All Platforms</option>
+            <option value="Max">Max (HBO Max)</option>
+            <option value="Hulu">Hulu</option>
+            <option value="Disney+">Disney+</option>
+            <option value="Prime">Prime Video</option>
+            <option value="Tubi">Tubi</option>
+            <option value="Pluto">Pluto TV</option>
+            <option value="Peacock">Peacock</option>
+            <option value="YouTube">YouTube Free</option>
+            <option value="Plex">Plex</option>
+        </select>
+        <div class="tag-filters">
+            <button class="tag-btn" data-filter="aliens">👽 Aliens</button>
+            <button class="tag-btn" data-filter="writing">✍️ Strong Writing</button>
+            <button class="tag-btn" data-filter="high-rated">⭐ 7.5+</button>
+        </div>
+    </div>
+
+    <div class="grid" id="film-grid"></div>
+
+    <footer>
+        <p>Built from a curated research project. Streaming availability changes — verify before watching.</p>
+    </footer>
+
+    <script>
+        let films = [];
+
+        async function load() {
+            const res = await fetch('scifi_database.json');
+            const data = await res.json();
+            films = data.films;
+            render(films);
+            updateStats(data.statistics);
+        }
+
+        function render(list) {
+            const grid = document.getElementById('film-grid');
+            grid.innerHTML = list.map(f => `
+                <div class="film-card" data-title="${f.title.toLowerCase()}" data-director="${f.director.toLowerCase()}" data-subgenre="${f.subgenre.toLowerCase()}" data-platform="${f.platform.toLowerCase()}" data-aliens="${f.has_aliens}" data-writing="${f.strong_writing}" data-imdb="${f.imdb_rating}">
+                    <div class="film-title">${f.title}</div>
+                    <div class="film-meta">
+                        <span class="badge badge-year">${f.year}</span>
+                        <span class="badge badge-imdb">★ ${f.imdb_rating}</span>
+                        ${f.platform.split(',').map(p => `<span class="badge badge-platform">${p.trim()}</span>`).join('')}
+                        ${f.has_aliens ? '<span class="badge badge-alien">ALIENS</span>' : ''}
+                        ${f.strong_writing ? '<span class="badge badge-writing">GREAT PLOT</span>' : ''}
+                    </div>
+                    <div class="film-subgenre">${f.subgenre}</div>
+                    <div class="film-director">Directed by ${f.director}</div>
+                </div>
+            `).join('');
+        }
+
+        function updateStats(s) {
+            document.getElementById('stat-total').textContent = s.total_films;
+            document.getElementById('stat-avg').textContent = s.average_imdb;
+            document.getElementById('stat-aliens').textContent = s.films_with_aliens;
+            document.getElementById('stat-writing').textContent = s.films_with_strong_writing;
+        }
+
+        function filter() {
+            const q = document.getElementById('search').value.toLowerCase();
+            const plat = document.getElementById('platform-filter').value.toLowerCase();
+            const activeTags = Array.from(document.querySelectorAll('.tag-btn.active')).map(b => b.dataset.filter);
+
+            document.querySelectorAll('.film-card').forEach(card => {
+                const text = card.dataset.title + ' ' + card.dataset.director + ' ' + card.dataset.subgenre;
+                const matchesSearch = text.includes(q);
+                const matchesPlatform = !plat || card.dataset.platform.includes(plat);
+                let matchesTags = true;
+                if (activeTags.includes('aliens') && card.dataset.aliens !== 'true') matchesTags = false;
+                if (activeTags.includes('writing') && card.dataset.writing !== 'true') matchesTags = false;
+                if (activeTags.includes('high-rated') && parseFloat(card.dataset.imdb) < 7.5) matchesTags = false;
+
+                card.classList.toggle('hidden', !(matchesSearch && matchesPlatform && matchesTags));
+            });
+        }
+
+        document.getElementById('search').addEventListener('input', filter);
+        document.getElementById('platform-filter').addEventListener('change', filter);
+        document.querySelectorAll('.tag-btn').forEach(btn => {
+            btn.addEventListener('click', () => { btn.classList.toggle('active'); filter(); });
+        });
+
+        load();
+    </script>
+</body>
+</html>
