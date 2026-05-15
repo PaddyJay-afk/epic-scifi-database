@@ -1,0 +1,767 @@
+[
+  {
+    "id": "meet-the-robinsons-2007",
+    "title": "Meet the Robinsons",
+    "year": 2007,
+    "directors": [
+      "Stephen Anderson"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2007..",
+    "synopsisLong": "An epic science fiction film released in 2007.",
+    "keywords": [
+      "strong-writing",
+      "time-travel"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.8
+    },
+    "updatedAt": "2026-05-15T06:26:04.188653Z"
+  },
+  {
+    "id": "bolt-2008",
+    "title": "Bolt",
+    "year": 2008,
+    "directors": [
+      "Byron Howard",
+      "Chris Williams"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2008..",
+    "synopsisLong": "An epic science fiction film released in 2008.",
+    "keywords": [
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.8
+    },
+    "updatedAt": "2026-05-15T06:26:04.188675Z"
+  },
+  {
+    "id": "chicken-little-2005",
+    "title": "Chicken Little",
+    "year": 2005,
+    "directors": [
+      "Mark Dindal"
+    ],
+    "cast": [],
+    "genres": [
+      "Comedy"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2005..",
+    "synopsisLong": "An epic science fiction film released in 2005.",
+    "keywords": [
+      "aliens"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 5.7
+    },
+    "updatedAt": "2026-05-15T06:26:04.188687Z"
+  },
+  {
+    "id": "mars-needs-moms-2011",
+    "title": "Mars Needs Moms",
+    "year": 2011,
+    "directors": [
+      "Simon Wells"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2011..",
+    "synopsisLong": "An epic science fiction film released in 2011.",
+    "keywords": [
+      "aliens"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 5.4
+    },
+    "updatedAt": "2026-05-15T06:26:04.188698Z"
+  },
+  {
+    "id": "race-to-witch-mountain-2009",
+    "title": "Race to Witch Mountain",
+    "year": 2009,
+    "directors": [
+      "Andy Fickman"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2009..",
+    "synopsisLong": "An epic science fiction film released in 2009.",
+    "keywords": [
+      "aliens"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 5.8
+    },
+    "updatedAt": "2026-05-15T06:26:04.188720Z"
+  },
+  {
+    "id": "the-black-hole-1979-215",
+    "title": "The Black Hole",
+    "year": 1979,
+    "directors": [
+      "Gary Nelson"
+    ],
+    "cast": [
+      "Maximilian Schell",
+      "Anthony Perkins",
+      "Robert Forster",
+      "Joseph Bottoms"
+    ],
+    "genres": [
+      "Horror"
+    ],
+    "synopsisShort": "A research vessel finds a missing ship, commanded by a mysterious scientist, on the edge of a black hole..",
+    "synopsisLong": "A research vessel finds a missing ship, commanded by a mysterious scientist, on the edge of a black hole.",
+    "keywords": [
+      "space",
+      "horror"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.0
+    },
+    "updatedAt": "2026-05-15T06:26:04.188733Z"
+  },
+  {
+    "id": "flight-of-the-navigator-1986-216",
+    "title": "Flight of the Navigator",
+    "year": 1986,
+    "directors": [
+      "Randal Kleiser"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1986..",
+    "synopsisLong": "An epic science fiction film released in 1986.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "time-travel"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.9
+    },
+    "updatedAt": "2026-05-15T06:26:04.188746Z"
+  },
+  {
+    "id": "honey-i-shrunk-the-kids-1989-217",
+    "title": "Honey, I Shrunk the Kids",
+    "year": 1989,
+    "directors": [
+      "Joe Johnston"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1989..",
+    "synopsisLong": "An epic science fiction film released in 1989.",
+    "keywords": [
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.4
+    },
+    "updatedAt": "2026-05-15T06:26:04.188760Z"
+  },
+  {
+    "id": "the-rocketeer-1991-218",
+    "title": "The Rocketeer",
+    "year": 1991,
+    "directors": [
+      "Joe Johnston"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1991..",
+    "synopsisLong": "An epic science fiction film released in 1991.",
+    "keywords": [
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.5
+    },
+    "updatedAt": "2026-05-15T06:26:04.188783Z"
+  },
+  {
+    "id": "armageddon-1998-219",
+    "title": "Armageddon",
+    "year": 1998,
+    "directors": [
+      "Michael Bay"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1998..",
+    "synopsisLong": "An epic science fiction film released in 1998.",
+    "keywords": [
+      "space"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.7
+    },
+    "updatedAt": "2026-05-15T06:26:04.188797Z"
+  },
+  {
+    "id": "tomorrowland-2015-220",
+    "title": "Tomorrowland",
+    "year": 2015,
+    "directors": [
+      "Brad Bird"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2015..",
+    "synopsisLong": "An epic science fiction film released in 2015.",
+    "keywords": [
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.4
+    },
+    "updatedAt": "2026-05-15T06:26:04.188808Z"
+  },
+  {
+    "id": "tron-1982-221",
+    "title": "TRON",
+    "year": 1982,
+    "directors": [
+      "Steven Lisberger"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1982..",
+    "synopsisLong": "An epic science fiction film released in 1982.",
+    "keywords": [
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.7
+    },
+    "updatedAt": "2026-05-15T06:26:04.188822Z"
+  },
+  {
+    "id": "john-carter-2012-222",
+    "title": "John Carter",
+    "year": 2012,
+    "directors": [
+      "Andrew Stanton"
+    ],
+    "cast": [],
+    "genres": [
+      "Adventure"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2012..",
+    "synopsisLong": "An epic science fiction film released in 2012.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "space"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.6
+    },
+    "updatedAt": "2026-05-15T06:26:04.188834Z"
+  },
+  {
+    "id": "the-hitchhiker-s-guide-to-the-galaxy-2005-223",
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "year": 2005,
+    "directors": [
+      "Garth Jennings"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction",
+      "Comedy"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2005..",
+    "synopsisLong": "An epic science fiction film released in 2005.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "space"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.7
+    },
+    "updatedAt": "2026-05-15T06:26:04.188849Z"
+  },
+  {
+    "id": "iron-man-2-2010",
+    "title": "Iron Man 2",
+    "year": 2010,
+    "directors": [
+      "Jon Favreau"
+    ],
+    "cast": [
+      "Robert Downey Jr.",
+      "Terrence Howard",
+      "Jeff Bridges",
+      "Gwyneth Paltrow"
+    ],
+    "genres": [
+      "Thriller"
+    ],
+    "synopsisShort": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil..",
+    "synopsisLong": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+    "keywords": [
+      "strong-writing",
+      "superhero"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/78lPtwv72cTNqFWu2t4T7jF6F6F.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 6.9
+    },
+    "updatedAt": "2026-05-15T06:26:04.188861Z"
+  },
+  {
+    "id": "iron-man-3-2013",
+    "title": "Iron Man 3",
+    "year": 2013,
+    "directors": [
+      "Shane Black"
+    ],
+    "cast": [
+      "Robert Downey Jr.",
+      "Terrence Howard",
+      "Jeff Bridges",
+      "Gwyneth Paltrow"
+    ],
+    "genres": [
+      "Thriller"
+    ],
+    "synopsisShort": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil..",
+    "synopsisLong": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+    "keywords": [
+      "strong-writing",
+      "superhero"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/78lPtwv72cTNqFWu2t4T7jF6F6F.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.1
+    },
+    "updatedAt": "2026-05-15T06:26:04.188875Z"
+  },
+  {
+    "id": "thor-2011",
+    "title": "Thor",
+    "year": 2011,
+    "directors": [
+      "Kenneth Branagh"
+    ],
+    "cast": [],
+    "genres": [
+      "Adventure"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2011..",
+    "synopsisLong": "An epic science fiction film released in 2011.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "space",
+      "superhero"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.0
+    },
+    "updatedAt": "2026-05-15T06:26:04.188886Z"
+  },
+  {
+    "id": "thor-the-dark-world-2013",
+    "title": "Thor: The Dark World",
+    "year": 2013,
+    "directors": [
+      "Alan Taylor"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2013..",
+    "synopsisLong": "An epic science fiction film released in 2013.",
+    "keywords": [
+      "aliens",
+      "space",
+      "superhero"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.8
+    },
+    "updatedAt": "2026-05-15T06:26:04.188898Z"
+  },
+  {
+    "id": "thor-love-and-thunder-2022",
+    "title": "Thor: Love and Thunder",
+    "year": 2022,
+    "directors": [
+      "Taika Waititi"
+    ],
+    "cast": [],
+    "genres": [
+      "Adventure"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2022..",
+    "synopsisLong": "An epic science fiction film released in 2022.",
+    "keywords": [
+      "aliens",
+      "space",
+      "superhero"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.2
+    },
+    "updatedAt": "2026-05-15T06:26:04.188910Z"
+  },
+  {
+    "id": "guardians-of-the-galaxy-vol-2-2017",
+    "title": "Guardians of the Galaxy Vol. 2",
+    "year": 2017,
+    "directors": [
+      "James Gunn"
+    ],
+    "cast": [
+      "Chris Pratt",
+      "Zoe Saldana",
+      "Dave Bautista",
+      "Vin Diesel"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Comedy"
+    ],
+    "synopsisShort": "A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe..",
+    "synopsisLong": "A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "space"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/r7MvOYc7nxVLv4j0830sPboY7p4.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.6
+    },
+    "updatedAt": "2026-05-15T06:26:04.188937Z"
+  },
+  {
+    "id": "black-panther-2018",
+    "title": "Black Panther",
+    "year": 2018,
+    "directors": [
+      "Ryan Coogler"
+    ],
+    "cast": [
+      "Joaquin Phoenix",
+      "Amy Adams",
+      "Scarlett Johansson",
+      "Rooney Mara"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need..",
+    "synopsisLong": "In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.",
+    "keywords": [
+      "strong-writing",
+      "superhero"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/ezxNlyr05joU1bHcKv9EHZo8gTl.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.3
+    },
+    "updatedAt": "2026-05-15T06:26:04.188986Z"
+  },
+  {
+    "id": "black-panther-wakanda-forever-2022",
+    "title": "Black Panther: Wakanda Forever",
+    "year": 2022,
+    "directors": [
+      "Ryan Coogler"
+    ],
+    "cast": [
+      "Joaquin Phoenix",
+      "Amy Adams",
+      "Scarlett Johansson",
+      "Rooney Mara"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need..",
+    "synopsisLong": "In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/ezxNlyr05joU1bHcKv9EHZo8gTl.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 6.7
+    },
+    "updatedAt": "2026-05-15T06:26:04.189004Z"
+  },
+  {
+    "id": "captain-marvel-2019",
+    "title": "Captain Marvel",
+    "year": 2019,
+    "directors": [
+      "Anna Boden",
+      "Ryan Fleck"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2019..",
+    "synopsisLong": "An epic science fiction film released in 2019.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "superhero"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.8
+    },
+    "updatedAt": "2026-05-15T06:26:04.189018Z"
+  },
+  {
+    "id": "the-marvels-2023",
+    "title": "The Marvels",
+    "year": 2023,
+    "directors": [
+      "Nia DaCosta"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2023..",
+    "synopsisLong": "An epic science fiction film released in 2023.",
+    "keywords": [
+      "aliens",
+      "space",
+      "superhero"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 5.6
+    },
+    "updatedAt": "2026-05-15T06:26:04.189029Z"
+  },
+  {
+    "id": "eternals-2021",
+    "title": "Eternals",
+    "year": 2021,
+    "directors": [
+      "Chlo\u00e9 Zhao"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2021..",
+    "synopsisLong": "An epic science fiction film released in 2021.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "superhero"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.3
+    },
+    "updatedAt": "2026-05-15T06:26:04.189040Z"
+  },
+  {
+    "id": "shang-chi-and-the-legend-of-the-ten-rings-2021",
+    "title": "Shang-Chi and the Legend of the Ten Rings",
+    "year": 2021,
+    "directors": [
+      "Destin Daniel Cretton"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2021..",
+    "synopsisLong": "An epic science fiction film released in 2021.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.4
+    },
+    "updatedAt": "2026-05-15T06:26:04.189060Z"
+  },
+  {
+    "id": "spider-man-no-way-home-2021",
+    "title": "Spider-Man: No Way Home",
+    "year": 2021,
+    "directors": [
+      "Jon Watts"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2021..",
+    "synopsisLong": "An epic science fiction film released in 2021.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "superhero"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 8.2
+    },
+    "updatedAt": "2026-05-15T06:26:04.189073Z"
+  },
+  {
+    "id": "spider-man-far-from-home-2019",
+    "title": "Spider-Man: Far From Home",
+    "year": 2019,
+    "directors": [
+      "Jon Watts"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2019..",
+    "synopsisLong": "An epic science fiction film released in 2019.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "superhero"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.4
+    },
+    "updatedAt": "2026-05-15T06:26:04.189091Z"
+  },
+  {
+    "id": "spider-man-homecoming-2017",
+    "title": "Spider-Man: Homecoming",
+    "year": 2017,
+    "directors": [
+      "Jon Watts"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2017..",
+    "synopsisLong": "An epic science fiction film released in 2017.",
+    "keywords": [
+      "strong-writing",
+      "superhero"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.4
+    },
+    "updatedAt": "2026-05-15T06:26:04.189103Z"
+  },
+  {
+    "id": "doctor-strange-in-the-multiverse-of-madness-2022",
+    "title": "Doctor Strange in the Multiverse of Madness",
+    "year": 2022,
+    "directors": [
+      "Sam Raimi"
+    ],
+    "cast": [
+      "Benedict Cumberbatch",
+      "Chiwetel Ejiofor",
+      "Rachel McAdams",
+      "Benedict Wong"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "While on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts..",
+    "synopsisLong": "While on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 6.9
+    },
+    "updatedAt": "2026-05-15T06:26:04.189118Z"
+  }
+]

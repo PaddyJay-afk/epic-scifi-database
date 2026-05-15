@@ -1,0 +1,887 @@
+[
+  {
+    "id": "her-2013",
+    "title": "Her",
+    "year": 2013,
+    "directors": [
+      "Spike Jonze"
+    ],
+    "cast": [
+      "Joaquin Phoenix",
+      "Amy Adams",
+      "Scarlett Johansson",
+      "Rooney Mara"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "synopsisShort": "In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need..",
+    "synopsisLong": "In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.",
+    "keywords": [
+      "strong-writing"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/ezxNlyr05joU1bHcKv9EHZo8gTl.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 8.0
+    },
+    "updatedAt": "2026-05-15T06:26:04.183882Z"
+  },
+  {
+    "id": "the-iron-giant-1999",
+    "title": "The Iron Giant",
+    "year": 1999,
+    "directors": [
+      "Brad Bird"
+    ],
+    "cast": [
+      "Eli Marienthal",
+      "Harry Connick Jr.",
+      "Jennifer Aniston",
+      "Vin Diesel"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "A young boy befriends a giant robot from outer space that a paranoid government agent wants to destroy..",
+    "synopsisLong": "A young boy befriends a giant robot from outer space that a paranoid government agent wants to destroy.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 8.1
+    },
+    "updatedAt": "2026-05-15T06:26:04.183898Z"
+  },
+  {
+    "id": "district-9-2009",
+    "title": "District 9",
+    "year": 2009,
+    "directors": [
+      "Neill Blomkamp"
+    ],
+    "cast": [
+      "Sharlto Copley",
+      "Jason Cope",
+      "Nathalie Boltt",
+      "Sylvaine Strike"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "Violence ensues after an extraterrestrial race forced to live in slum-like conditions on Earth finds a kindred spirit in a government agent exposed to their biotechnology..",
+    "synopsisLong": "Violence ensues after an extraterrestrial race forced to live in slum-like conditions on Earth finds a kindred spirit in a government agent exposed to their biotechnology.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/tui9Z2QEoM3K2xF1GmKxd0WZD8N.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.9
+    },
+    "updatedAt": "2026-05-15T06:26:04.183911Z"
+  },
+  {
+    "id": "avatar-2009",
+    "title": "Avatar",
+    "year": 2009,
+    "directors": [
+      "James Cameron"
+    ],
+    "cast": [
+      "Sam Worthington",
+      "Zoe Saldana",
+      "Sigourney Weaver",
+      "Stephen Lang"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home..",
+    "synopsisLong": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/kyeqWdyUXW608qlYkRqosgbbJyK.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.9
+    },
+    "updatedAt": "2026-05-15T06:26:04.183925Z"
+  },
+  {
+    "id": "guardians-of-the-galaxy-vol-3-2023",
+    "title": "Guardians of the Galaxy Vol. 3",
+    "year": 2023,
+    "directors": [
+      "James Gunn"
+    ],
+    "cast": [
+      "Chris Pratt",
+      "Zoe Saldana",
+      "Dave Bautista",
+      "Vin Diesel"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Drama",
+      "Adventure"
+    ],
+    "synopsisShort": "A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe..",
+    "synopsisLong": "A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "space"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/r7MvOYc7nxVLv4j0830sPboY7p4.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.9
+    },
+    "updatedAt": "2026-05-15T06:26:04.183952Z"
+  },
+  {
+    "id": "serenity-2005",
+    "title": "Serenity",
+    "year": 2005,
+    "directors": [
+      "Joss Whedon"
+    ],
+    "cast": [
+      "Nathan Fillion",
+      "Gina Torres",
+      "Alan Tudyk",
+      "Morena Baccarin"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "The crew of the ship Serenity try to evade an assassin sent to recapture one of their members who is telepathic..",
+    "synopsisLong": "The crew of the ship Serenity try to evade an assassin sent to recapture one of their members who is telepathic.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "space"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/1x8b78Az6T7jJ0oC1e41sJ0j0Jc.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.8
+    },
+    "updatedAt": "2026-05-15T06:26:04.183963Z"
+  },
+  {
+    "id": "children-of-men-2006",
+    "title": "Children of Men",
+    "year": 2006,
+    "directors": [
+      "Alfonso Cuar\u00f3n"
+    ],
+    "cast": [
+      "Clive Owen",
+      "Julianne Moore",
+      "Michael Caine",
+      "Chiwetel Ejiofor"
+    ],
+    "genres": [
+      "Thriller"
+    ],
+    "synopsisShort": "In a future British tyranny, a cynical civil servant decides to take a stand to save the life of the only woman capable of bearing children..",
+    "synopsisLong": "In a future British tyranny, a cynical civil servant decides to take a stand to save the life of the only woman capable of bearing children.",
+    "keywords": [
+      "strong-writing",
+      "dystopian"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/kpZxdNsAV7qTdHLvOZq6tF01Xx4.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.9
+    },
+    "updatedAt": "2026-05-15T06:26:04.183975Z"
+  },
+  {
+    "id": "edge-of-tomorrow-2014",
+    "title": "Edge of Tomorrow",
+    "year": 2014,
+    "directors": [
+      "Doug Liman"
+    ],
+    "cast": [
+      "Tom Cruise",
+      "Emily Blunt",
+      "Bill Paxton",
+      "Brendan Gleeson"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "A soldier fighting aliens gets to relive the same day over and over again, the day restarting every time he dies..",
+    "synopsisLong": "A soldier fighting aliens gets to relive the same day over and over again, the day restarting every time he dies.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "time-travel"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/tpoVEYvm6xqTrVw9KLGsKeXL8bj.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.9
+    },
+    "updatedAt": "2026-05-15T06:26:04.183988Z"
+  },
+  {
+    "id": "e-t-the-extra-terrestrial-1982",
+    "title": "E.T. the Extra-Terrestrial",
+    "year": 1982,
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "cast": [
+      "Henry Thomas",
+      "Drew Barrymore",
+      "Peter Coyote",
+      "Dee Wallace"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "A troubled child summons the courage to help a friendly alien escape Earth and return to his home world..",
+    "synopsisLong": "A troubled child summons the courage to help a friendly alien escape Earth and return to his home world.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/an0nD6uqOOypZ1LMOK1j2Y8E7Ph.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.9
+    },
+    "updatedAt": "2026-05-15T06:26:04.184001Z"
+  },
+  {
+    "id": "12-monkeys-1995",
+    "title": "12 Monkeys",
+    "year": 1995,
+    "directors": [
+      "Terry Gilliam"
+    ],
+    "cast": [
+      "Bruce Willis",
+      "Madeleine Stowe",
+      "Brad Pitt",
+      "Christopher Plummer"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "In a future world devastated by disease, a convict is sent back in time to gather information about the man-made virus that wiped out most of the human population..",
+    "synopsisLong": "In a future world devastated by disease, a convict is sent back in time to gather information about the man-made virus that wiped out most of the human population.",
+    "keywords": [
+      "strong-writing",
+      "time-travel",
+      "post-apocalyptic"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/6a9YqtdXfHO5bz8Q3b8gS1l5s3Z.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 8.0
+    },
+    "updatedAt": "2026-05-15T06:26:04.184021Z"
+  },
+  {
+    "id": "rogue-one-a-star-wars-story-2016",
+    "title": "Rogue One: A Star Wars Story",
+    "year": 2016,
+    "directors": [
+      "Gareth Edwards"
+    ],
+    "cast": [
+      "Felicity Jones",
+      "Diego Luna",
+      "Alan Tudyk",
+      "Donnie Yen"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "The daughter of an Imperial scientist joins the Rebel Alliance in a risky move to steal the plans for the Death Star..",
+    "synopsisLong": "The daughter of an Imperial scientist joins the Rebel Alliance in a risky move to steal the plans for the Death Star.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "space"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/i0yw1mFbC7/SqoX4V4Y8P1l6F7F7F7F7F7F.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.8
+    },
+    "updatedAt": "2026-05-15T06:26:04.184034Z"
+  },
+  {
+    "id": "moon-2009",
+    "title": "Moon",
+    "year": 2009,
+    "directors": [
+      "Duncan Jones"
+    ],
+    "cast": [
+      "Sam Rockwell",
+      "Kevin Spacey",
+      "Dominique McElligott",
+      "Rosie Shaw"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "Astronaut Sam Bell has a quintessentially personal encounter toward the end of his three-year stint on the Moon..",
+    "synopsisLong": "Astronaut Sam Bell has a quintessentially personal encounter toward the end of his three-year stint on the Moon.",
+    "keywords": [
+      "strong-writing",
+      "space"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/35IU0Ux0t7DXpak3PjtpF5Z5oBh.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.8
+    },
+    "updatedAt": "2026-05-15T06:26:04.184050Z"
+  },
+  {
+    "id": "predator-1987",
+    "title": "Predator",
+    "year": 1987,
+    "directors": [
+      "John McTiernan"
+    ],
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Carl Weathers",
+      "Kevin Peter Hall",
+      "Jesse Ventura"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Action"
+    ],
+    "synopsisShort": "A team of commandos on a mission in a Central American jungle find themselves hunted by an extraterrestrial warrior..",
+    "synopsisLong": "A team of commandos on a mission in a Central American jungle find themselves hunted by an extraterrestrial warrior.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "action"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/c0gq9cBh2E2nH47F0Y9Q2nZ0Y9Q.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.8
+    },
+    "updatedAt": "2026-05-15T06:26:04.184060Z"
+  },
+  {
+    "id": "ex-machina-2014",
+    "title": "Ex Machina",
+    "year": 2014,
+    "directors": [
+      "Alex Garland"
+    ],
+    "cast": [
+      "Domhnall Gleeson",
+      "Alicia Vikander",
+      "Oscar Isaac",
+      "Sonoya Mizuno"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "A young programmer is selected to participate in a groundbreaking experiment in synthetic intelligence by evaluating the human qualities of a highly advanced humanoid AI..",
+    "synopsisLong": "A young programmer is selected to participate in a groundbreaking experiment in synthetic intelligence by evaluating the human qualities of a highly advanced humanoid AI.",
+    "keywords": [
+      "strong-writing"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/ohkyS8HrxQWY2J8qt41APfnCITV.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.7
+    },
+    "updatedAt": "2026-05-15T06:26:04.184071Z"
+  },
+  {
+    "id": "gravity-2013",
+    "title": "Gravity",
+    "year": 2013,
+    "directors": [
+      "Alfonso Cuar\u00f3n"
+    ],
+    "cast": [],
+    "genres": [
+      "Thriller"
+    ],
+    "synopsisShort": "Two astronauts work together to survive after an accident leaves them stranded in space..",
+    "synopsisLong": "Two astronauts work together to survive after an accident leaves them stranded in space.",
+    "keywords": [
+      "strong-writing",
+      "space"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/wnMItzJFc7mfV3dlwGqNuH1ZNxZ.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.7
+    },
+    "updatedAt": "2026-05-15T06:26:04.184081Z"
+  },
+  {
+    "id": "gattaca-1997",
+    "title": "Gattaca",
+    "year": 1997,
+    "directors": [
+      "Andrew Niccol"
+    ],
+    "cast": [
+      "Ethan Hawke",
+      "Uma Thurman",
+      "Jude Law",
+      "Gore Vidal"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "A genetically inferior man assumes the identity of a superior one in order to pursue his lifelong dream of space travel..",
+    "synopsisLong": "A genetically inferior man assumes the identity of a superior one in order to pursue his lifelong dream of space travel.",
+    "keywords": [
+      "strong-writing"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/t8LATeLPHhkj080EqvppRmekD8x.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.7
+    },
+    "updatedAt": "2026-05-15T06:26:04.184090Z"
+  },
+  {
+    "id": "star-trek-into-darkness-2013",
+    "title": "Star Trek Into Darkness",
+    "year": 2013,
+    "directors": [
+      "J.J. Abrams"
+    ],
+    "cast": [
+      "Chris Pine",
+      "Zachary Quinto",
+      "Zoe Saldana",
+      "Benedict Cumberbatch"
+    ],
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "synopsisShort": "After the crew of the Enterprise find an unstoppable force of terror from within their own organization, Captain Kirk leads a manhunt to a war-zone world to capture a one-man weapon of mass destruction..",
+    "synopsisLong": "After the crew of the Enterprise find an unstoppable force of terror from within their own organization, Captain Kirk leads a manhunt to a war-zone world to capture a one-man weapon of mass destruction.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "space",
+      "action"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/xpeyhVbV1OFKx7f2Z2z2Z2z2Z2z.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.7
+    },
+    "updatedAt": "2026-05-15T06:26:04.184104Z"
+  },
+  {
+    "id": "star-trek-ii-the-wrath-of-khan-1982",
+    "title": "Star Trek II: The Wrath of Khan",
+    "year": 1982,
+    "directors": [
+      "Nicholas Meyer"
+    ],
+    "cast": [
+      "William Shatner",
+      "Leonard Nimoy",
+      "DeForest Kelley",
+      "James Doohan"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1982..",
+    "synopsisLong": "An epic science fiction film released in 1982.",
+    "keywords": [
+      "strong-writing",
+      "space"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/mF8Sw9YHJxJp7yVjE3V7o8q8Y8q.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.7
+    },
+    "updatedAt": "2026-05-15T06:26:04.184118Z"
+  },
+  {
+    "id": "minority-report-2002",
+    "title": "Minority Report",
+    "year": 2002,
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "cast": [
+      "Tom Cruise",
+      "Colin Farrell",
+      "Samantha Morton",
+      "Max von Sydow"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "In a future where a special police unit is able to arrest murderers before they commit their crimes, an officer from that unit is himself accused of a future murder..",
+    "synopsisLong": "In a future where a special police unit is able to arrest murderers before they commit their crimes, an officer from that unit is himself accused of a future murder.",
+    "keywords": [
+      "strong-writing",
+      "cyberpunk"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/ccqpHq5tk5W4ymbSbuP6EKfQO6p.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.6
+    },
+    "updatedAt": "2026-05-15T06:26:04.184134Z"
+  },
+  {
+    "id": "robocop-1987",
+    "title": "RoboCop",
+    "year": 1987,
+    "directors": [
+      "Paul Verhoeven"
+    ],
+    "cast": [
+      "Peter Weller",
+      "Nancy Allen",
+      "Dan O'Herlihy",
+      "Ronny Cox"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "synopsisShort": "In a dystopic and crime-ridden Detroit, a terminally wounded cop returns to the force as a powerful cyborg haunted by submerged memories..",
+    "synopsisLong": "In a dystopic and crime-ridden Detroit, a terminally wounded cop returns to the force as a powerful cyborg haunted by submerged memories.",
+    "keywords": [
+      "strong-writing",
+      "action",
+      "cyberpunk"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/hHtJQYmCvJ8J7gJ6qCJ8J7gJ6qC.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.6
+    },
+    "updatedAt": "2026-05-15T06:26:04.184144Z"
+  },
+  {
+    "id": "the-fifth-element-1997",
+    "title": "The Fifth Element",
+    "year": 1997,
+    "directors": [
+      "Luc Besson"
+    ],
+    "cast": [
+      "Bruce Willis",
+      "Milla Jovovich",
+      "Gary Oldman",
+      "Ian Holm"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "synopsisShort": "In the colorful future, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep Evil at bay..",
+    "synopsisLong": "In the colorful future, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep Evil at bay.",
+    "keywords": [
+      "aliens",
+      "space",
+      "action"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/fPtlCO1yQtnoLHOwKtWz7db6RGU.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.6
+    },
+    "updatedAt": "2026-05-15T06:26:04.184156Z"
+  },
+  {
+    "id": "rise-of-the-planet-of-the-apes-2011",
+    "title": "Rise of the Planet of the Apes",
+    "year": 2011,
+    "directors": [
+      "Rupert Wyatt"
+    ],
+    "cast": [
+      "James Franco",
+      "Andy Serkis",
+      "Freida Pinto",
+      "John Lithgow"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "A substance designed to help the brain repair itself gives advanced intelligence to a chimpanzee who leads an ape uprising..",
+    "synopsisLong": "A substance designed to help the brain repair itself gives advanced intelligence to a chimpanzee who leads an ape uprising.",
+    "keywords": [
+      "strong-writing"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/es\u5728\u4e2d\u56fd\u7684 Language lab observation window. 0N8S5cpL5SQoRH8r7F7F7F7F7F.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.6
+    },
+    "updatedAt": "2026-05-15T06:26:04.184174Z"
+  },
+  {
+    "id": "dawn-of-the-planet-of-the-apes-2014",
+    "title": "Dawn of the Planet of the Apes",
+    "year": 2014,
+    "directors": [
+      "Matt Reeves"
+    ],
+    "cast": [
+      "Andy Serkis",
+      "Jason Clarke",
+      "Gary Oldman",
+      "Keri Russell"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Drama"
+    ],
+    "synopsisShort": "A growing nation of genetically evolved apes led by Caesar is threatened by a band of human survivors of the devastating virus unleashed a decade earlier..",
+    "synopsisLong": "A growing nation of genetically evolved apes led by Caesar is threatened by a band of human survivors of the devastating virus unleashed a decade earlier.",
+    "keywords": [
+      "strong-writing",
+      "post-apocalyptic"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/qjiskwlV1qQzRCjpV0cL9pEMF9a.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.6
+    },
+    "updatedAt": "2026-05-15T06:26:04.184189Z"
+  },
+  {
+    "id": "avatar-the-way-of-water-2022",
+    "title": "Avatar: The Way of Water",
+    "year": 2022,
+    "directors": [
+      "James Cameron"
+    ],
+    "cast": [
+      "Sam Worthington",
+      "Zoe Saldana",
+      "Sigourney Weaver",
+      "Stephen Lang"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "Jake Sully lives with his newfound family formed on the extrasolar moon Pandora.",
+    "synopsisLong": "Jake Sully lives with his newfound family formed on the extrasolar moon Pandora. Once a familiar threat returns to finish what was previously started, Jake must work with Neytiri and the army of the Na'vi race to protect their home.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.6
+    },
+    "updatedAt": "2026-05-15T06:26:04.184203Z"
+  },
+  {
+    "id": "star-trek-first-contact-1996",
+    "title": "Star Trek: First Contact",
+    "year": 1996,
+    "directors": [
+      "Jonathan Frakes"
+    ],
+    "cast": [
+      "Patrick Stewart",
+      "Jonathan Frakes",
+      "Brent Spiner",
+      "LeVar Burton"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "The Borg travel back in time intent on preventing Earth's first contact with an alien species.",
+    "synopsisLong": "The Borg travel back in time intent on preventing Earth's first contact with an alien species. Captain Picard and his crew pursue them to ensure that Zefram Cochrane makes his maiden flight reaching warp speed.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "space",
+      "time-travel"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/7wrD6Qh8F7Q8w8Q8w8Q8w8Q8w8Q.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.6
+    },
+    "updatedAt": "2026-05-15T06:26:04.184216Z"
+  },
+  {
+    "id": "thor-ragnarok-2017",
+    "title": "Thor: Ragnarok",
+    "year": 2017,
+    "directors": [
+      "Taika Waititi"
+    ],
+    "cast": [
+      "Chris Hemsworth",
+      "Tom Hiddleston",
+      "Cate Blanchett",
+      "Mark Ruffalo"
+    ],
+    "genres": [
+      "Adventure"
+    ],
+    "synopsisShort": "Imprisoned on the planet Sakaar, Thor must race against time to return to Asgard and stop Ragnar\u00f6k, the destruction of his world, at the hands of the powerful and ruthless villain Hela..",
+    "synopsisLong": "Imprisoned on the planet Sakaar, Thor must race against time to return to Asgard and stop Ragnar\u00f6k, the destruction of his world, at the hands of the powerful and ruthless villain Hela.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "space",
+      "superhero"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.9
+    },
+    "updatedAt": "2026-05-15T06:26:04.184228Z"
+  },
+  {
+    "id": "captain-america-the-winter-soldier-2014",
+    "title": "Captain America: The Winter Soldier",
+    "year": 2014,
+    "directors": [
+      "Anthony Russo",
+      "Joe Russo"
+    ],
+    "cast": [
+      "Chris Evans",
+      "Samuel L. Jackson",
+      "Scarlett Johansson",
+      "Robert Redford"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier..",
+    "synopsisLong": "As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier.",
+    "keywords": [
+      "strong-writing",
+      "superhero"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/tVFRpFw3xTt7p9z1f3t3F3t3F3t.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.8
+    },
+    "updatedAt": "2026-05-15T06:26:04.184242Z"
+  },
+  {
+    "id": "captain-america-civil-war-2016",
+    "title": "Captain America: Civil War",
+    "year": 2016,
+    "directors": [
+      "Anthony Russo",
+      "Joe Russo"
+    ],
+    "cast": [
+      "Chris Evans",
+      "Robert Downey Jr.",
+      "Scarlett Johansson",
+      "Sebastian Stan"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Thriller"
+    ],
+    "synopsisShort": "Political involvement in the Avengers' affairs causes a rift between Captain America and Iron Man..",
+    "synopsisLong": "Political involvement in the Avengers' affairs causes a rift between Captain America and Iron Man.",
+    "keywords": [
+      "strong-writing",
+      "superhero"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/kEy48iCzGnpz0I5G9b8l6W8l8W8.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.8
+    },
+    "updatedAt": "2026-05-15T06:26:04.184264Z"
+  },
+  {
+    "id": "iron-man-2008",
+    "title": "Iron Man",
+    "year": 2008,
+    "directors": [
+      "Jon Favreau"
+    ],
+    "cast": [
+      "Robert Downey Jr.",
+      "Terrence Howard",
+      "Jeff Bridges",
+      "Gwyneth Paltrow"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Thriller"
+    ],
+    "synopsisShort": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil..",
+    "synopsisLong": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+    "keywords": [
+      "strong-writing",
+      "superhero"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/78lPtwv72cTNqFWu2t4T7jF6F6F.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.9
+    },
+    "updatedAt": "2026-05-15T06:26:04.184275Z"
+  },
+  {
+    "id": "big-hero-6-2014",
+    "title": "Big Hero 6",
+    "year": 2014,
+    "directors": [
+      "Don Hall",
+      "Chris Williams"
+    ],
+    "cast": [
+      "Ryan Potter",
+      "Scott Adsit",
+      "Jamie Chung",
+      "T.J. Miller"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "A special bond develops between plus-sized inflatable robot Baymax and prodigy Hiro Hamada, who together team up with a group of friends to form a band of high-tech heroes..",
+    "synopsisLong": "A special bond develops between plus-sized inflatable robot Baymax and prodigy Hiro Hamada, who together team up with a group of friends to form a band of high-tech heroes.",
+    "keywords": [
+      "strong-writing",
+      "superhero"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/9gLu47Zw5ertu8ZbBl5z3h4k4k4.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.8
+    },
+    "updatedAt": "2026-05-15T06:26:04.184288Z"
+  }
+]

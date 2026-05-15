@@ -1,0 +1,884 @@
+[
+  {
+    "id": "the-matrix-1999",
+    "title": "The Matrix",
+    "year": 1999,
+    "directors": [
+      "Lana Wachowski",
+      "Lilly Wachowski"
+    ],
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss",
+      "Hugo Weaving"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Action"
+    ],
+    "synopsisShort": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers..",
+    "synopsisLong": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+    "keywords": [
+      "strong-writing",
+      "action",
+      "cyberpunk"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 8.7
+    },
+    "updatedAt": "2026-05-15T06:26:04.183431Z"
+  },
+  {
+    "id": "star-wars-episode-v-the-empire-strikes-back-1980",
+    "title": "Star Wars: Episode V \u2013 The Empire Strikes Back",
+    "year": 1980,
+    "directors": [
+      "Irvin Kershner"
+    ],
+    "cast": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher",
+      "Billy Dee Williams"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "After the Rebels are brutally overpowered by the Empire, Luke Skywalker begins Jedi training with Yoda while his friends are pursued by Darth Vader..",
+    "synopsisLong": "After the Rebels are brutally overpowered by the Empire, Luke Skywalker begins Jedi training with Yoda while his friends are pursued by Darth Vader.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "space"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/2l05cFWJacyIskps4iSd02Jwty.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 8.7
+    },
+    "updatedAt": "2026-05-15T06:26:04.183493Z"
+  },
+  {
+    "id": "interstellar-2014",
+    "title": "Interstellar",
+    "year": 2014,
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "cast": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Jessica Chastain",
+      "Michael Caine"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "synopsisLong": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival. Christopher Nolan's epic features stunning visuals and emotional depth.",
+    "keywords": [
+      "strong-writing",
+      "space"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/gEU2QniL6C8z19uVOtYnZHSqMvY.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 8.7
+    },
+    "updatedAt": "2026-05-15T06:26:04.183507Z"
+  },
+  {
+    "id": "inception-2010",
+    "title": "Inception",
+    "year": 2010,
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Elliot Page",
+      "Tom Hardy"
+    ],
+    "genres": [
+      "Thriller"
+    ],
+    "synopsisShort": "A thief who steals corporate secrets through dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO..",
+    "synopsisLong": "A thief who steals corporate secrets through dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
+    "keywords": [
+      "strong-writing"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 8.8
+    },
+    "updatedAt": "2026-05-15T06:26:04.183518Z"
+  },
+  {
+    "id": "terminator-2-judgment-day-1991",
+    "title": "Terminator 2: Judgment Day",
+    "year": 1991,
+    "directors": [
+      "James Cameron"
+    ],
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Linda Hamilton",
+      "Edward Furlong",
+      "Robert Patrick"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1991..",
+    "synopsisLong": "An epic science fiction film released in 1991.",
+    "keywords": [
+      "strong-writing",
+      "time-travel",
+      "action"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/5M0j0B18abtAIi928yp0NI6bAbI.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 8.6
+    },
+    "updatedAt": "2026-05-15T06:26:04.183533Z"
+  },
+  {
+    "id": "star-wars-episode-iv-a-new-hope-1977",
+    "title": "Star Wars: Episode IV \u2013 A New Hope",
+    "year": 1977,
+    "directors": [
+      "George Lucas"
+    ],
+    "cast": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher",
+      "Peter Cushing"
+    ],
+    "genres": [
+      "Adventure"
+    ],
+    "synopsisShort": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station..",
+    "synopsisLong": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "space"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 8.6
+    },
+    "updatedAt": "2026-05-15T06:26:04.183549Z"
+  },
+  {
+    "id": "alien-1979",
+    "title": "Alien",
+    "year": 1979,
+    "directors": [
+      "Ridley Scott"
+    ],
+    "cast": [
+      "Sigourney Weaver",
+      "Tom Skerritt",
+      "John Hurt",
+      "Veronica Cartwright"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Horror"
+    ],
+    "synopsisShort": "The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown distress signal on a distant moon..",
+    "synopsisLong": "The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown distress signal on a distant moon.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "space",
+      "horror"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 8.5
+    },
+    "updatedAt": "2026-05-15T06:26:04.183561Z"
+  },
+  {
+    "id": "dune-part-two-2024",
+    "title": "Dune: Part Two",
+    "year": 2024,
+    "directors": [
+      "Denis Villeneuve"
+    ],
+    "cast": [
+      "Timoth\u00e9e Chalamet",
+      "Zendaya",
+      "Rebecca Ferguson",
+      "Javier Bardem"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family..",
+    "synopsisLong": "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "space"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 8.5
+    },
+    "updatedAt": "2026-05-15T06:26:04.183581Z"
+  },
+  {
+    "id": "back-to-the-future-1985",
+    "title": "Back to the Future",
+    "year": 1985,
+    "directors": [
+      "Robert Zemeckis"
+    ],
+    "cast": [
+      "Michael J. Fox",
+      "Christopher Lloyd",
+      "Lea Thompson",
+      "Crispin Glover"
+    ],
+    "genres": [
+      "Adventure"
+    ],
+    "synopsisShort": "Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, eccentric scientist Doc Brown..",
+    "synopsisLong": "Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, eccentric scientist Doc Brown.",
+    "keywords": [
+      "strong-writing",
+      "time-travel"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 8.5
+    },
+    "updatedAt": "2026-05-15T06:26:04.183594Z"
+  },
+  {
+    "id": "avengers-endgame-2019",
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "directors": [
+      "Anthony Russo",
+      "Joe Russo"
+    ],
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Mark Ruffalo",
+      "Chris Hemsworth"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "After the devastating events of Infinity War, the universe is in ruins.",
+    "synopsisLong": "After the devastating events of Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more to reverse Thanos' actions and restore balance.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "superhero"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 8.4
+    },
+    "updatedAt": "2026-05-15T06:26:04.183606Z"
+  },
+  {
+    "id": "aliens-1986",
+    "title": "Aliens",
+    "year": 1986,
+    "directors": [
+      "James Cameron"
+    ],
+    "cast": [
+      "Sigourney Weaver",
+      "Michael Biehn",
+      "Carrie Henn",
+      "Paul Reiser"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Action"
+    ],
+    "synopsisShort": "Decades after surviving the Nostromo incident, Ellen Ripley is sent out to re-establish contact with a terraforming colony but finds herself battling the Alien Queen and her offspring..",
+    "synopsisLong": "Decades after surviving the Nostromo incident, Ellen Ripley is sent out to re-establish contact with a terraforming colony but finds herself battling the Alien Queen and her offspring.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "action"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/r1x5JGpyqZU8PYhBS4UcrO1Xb6x.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 8.4
+    },
+    "updatedAt": "2026-05-15T06:26:04.183621Z"
+  },
+  {
+    "id": "star-wars-episode-vi-return-of-the-jedi-1983",
+    "title": "Star Wars: Episode VI \u2013 Return of the Jedi",
+    "year": 1983,
+    "directors": [
+      "Richard Marquand"
+    ],
+    "cast": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher",
+      "Billy Dee Williams"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to Endor to destroy the second Death Star..",
+    "synopsisLong": "After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to Endor to destroy the second Death Star.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "space"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/mDCBQNhR6RGVpzOnuTKqIk2vQ1p.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 8.3
+    },
+    "updatedAt": "2026-05-15T06:26:04.183642Z"
+  },
+  {
+    "id": "2001-a-space-odyssey-1968",
+    "title": "2001: A Space Odyssey",
+    "year": 1968,
+    "directors": [
+      "Stanley Kubrick"
+    ],
+    "cast": [
+      "Keir Dullea",
+      "Gary Lockwood",
+      "William Sylvester",
+      "Douglas Rain"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "After discovering a mysterious artifact buried beneath the lunar surface, mankind sets off on a quest to find its origins with help from a supercomputer H.A.L.",
+    "synopsisLong": "After discovering a mysterious artifact buried beneath the lunar surface, mankind sets off on a quest to find its origins with help from a supercomputer H.A.L. 9000.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "space"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/ve72VxNqjGMmjU2VLZB8Od0o9j2.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 8.3
+    },
+    "updatedAt": "2026-05-15T06:26:04.183655Z"
+  },
+  {
+    "id": "jurassic-park-1993",
+    "title": "Jurassic Park",
+    "year": 1993,
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "cast": [
+      "Sam Neill",
+      "Laura Dern",
+      "Jeff Goldblum",
+      "Richard Attenborough"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "A pragmatic paleontologist touring an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose..",
+    "synopsisLong": "A pragmatic paleontologist touring an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+    "keywords": [
+      "strong-writing"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/oU7Oq2kFAAlGqbU4VoAE36g4hoI.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 8.2
+    },
+    "updatedAt": "2026-05-15T06:26:04.183665Z"
+  },
+  {
+    "id": "the-thing-1982",
+    "title": "The Thing",
+    "year": 1982,
+    "directors": [
+      "John Carpenter"
+    ],
+    "cast": [
+      "Kurt Russell",
+      "Wilford Brimley",
+      "Keith David",
+      "Richard Masur"
+    ],
+    "genres": [
+      "Horror"
+    ],
+    "synopsisShort": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims..",
+    "synopsisLong": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "horror"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 8.2
+    },
+    "updatedAt": "2026-05-15T06:26:04.183676Z"
+  },
+  {
+    "id": "mad-max-fury-road-2015",
+    "title": "Mad Max: Fury Road",
+    "year": 2015,
+    "directors": [
+      "George Miller"
+    ],
+    "cast": [
+      "Tom Hardy",
+      "Charlize Theron",
+      "Nicholas Hoult",
+      "Hugh Keays-Byrne"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Action"
+    ],
+    "synopsisShort": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshiper, and a drifter named Max..",
+    "synopsisLong": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshiper, and a drifter named Max.",
+    "keywords": [
+      "strong-writing",
+      "action",
+      "post-apocalyptic"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/8tZYtuWezp8JbcsvHYO0O46tFbo.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 8.1
+    },
+    "updatedAt": "2026-05-15T06:26:04.183689Z"
+  },
+  {
+    "id": "blade-runner-1982",
+    "title": "Blade Runner",
+    "year": 1982,
+    "directors": [
+      "Ridley Scott"
+    ],
+    "cast": [
+      "Harrison Ford",
+      "Rutger Hauer",
+      "Sean Young",
+      "Edward James Olmos"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "A blade runner must pursue and try to terminate four replicants who stole a ship in space and have returned to Earth to find their creator..",
+    "synopsisLong": "A blade runner must pursue and try to terminate four replicants who stole a ship in space and have returned to Earth to find their creator.",
+    "keywords": [
+      "strong-writing",
+      "cyberpunk"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/63N9uy8nd9j7Eog2axpq8bHQzD.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 8.1
+    },
+    "updatedAt": "2026-05-15T06:26:04.183700Z"
+  },
+  {
+    "id": "the-terminator-1984",
+    "title": "The Terminator",
+    "year": 1984,
+    "directors": [
+      "James Cameron"
+    ],
+    "cast": [],
+    "genres": [
+      "Action"
+    ],
+    "synopsisShort": "A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year..",
+    "synopsisLong": "A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year.",
+    "keywords": [
+      "strong-writing",
+      "action"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/qvktm0BHcnmDpul4g01Dlt8io2u.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 8.1
+    },
+    "updatedAt": "2026-05-15T06:26:04.183710Z"
+  },
+  {
+    "id": "blade-runner-2049-2017",
+    "title": "Blade Runner 2049",
+    "year": 2017,
+    "directors": [
+      "Denis Villeneuve"
+    ],
+    "cast": [
+      "Ryan Gosling",
+      "Harrison Ford",
+      "Ana de Armas",
+      "Sylvia Hoeks"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former blade runner Rick Deckard..",
+    "synopsisLong": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former blade runner Rick Deckard.",
+    "keywords": [
+      "strong-writing",
+      "cyberpunk"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 8.0
+    },
+    "updatedAt": "2026-05-15T06:26:04.183722Z"
+  },
+  {
+    "id": "donnie-darko-2001",
+    "title": "Donnie Darko",
+    "year": 2001,
+    "directors": [
+      "Richard Kelly"
+    ],
+    "cast": [
+      "Jake Gyllenhaal",
+      "Jena Malone",
+      "Mary McDonnell",
+      "Holmes Osborne"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "A troubled teenager is plagued by visions of a man in a large rabbit suit who manipulates him to commit a series of crimes, after he narrowly escapes a bizarre accident..",
+    "synopsisLong": "A troubled teenager is plagued by visions of a man in a large rabbit suit who manipulates him to commit a series of crimes, after he narrowly escapes a bizarre accident.",
+    "keywords": [
+      "strong-writing",
+      "time-travel"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/f3wM5rsl5ZDHLW6qrR54nNGW5kk.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 8.0
+    },
+    "updatedAt": "2026-05-15T06:26:04.183733Z"
+  },
+  {
+    "id": "dune-2021",
+    "title": "Dune",
+    "year": 2021,
+    "directors": [
+      "Denis Villeneuve"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "A noble family becomes embroiled in a war for control over the galaxy's most valuable asset while its heir becomes troubled by visions of a dark future..",
+    "synopsisLong": "A noble family becomes embroiled in a war for control over the galaxy's most valuable asset while its heir becomes troubled by visions of a dark future.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "space"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgmzckG.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 8.0
+    },
+    "updatedAt": "2026-05-15T06:26:04.183747Z"
+  },
+  {
+    "id": "guardians-of-the-galaxy-2014",
+    "title": "Guardians of the Galaxy",
+    "year": 2014,
+    "directors": [
+      "James Gunn"
+    ],
+    "cast": [
+      "Chris Pratt",
+      "Zoe Saldana",
+      "Dave Bautista",
+      "Vin Diesel"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Comedy"
+    ],
+    "synopsisShort": "A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe..",
+    "synopsisLong": "A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "space"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/r7MvOYc7nxVLv4j0830sPboY7p4.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 8.0
+    },
+    "updatedAt": "2026-05-15T06:26:04.183763Z"
+  },
+  {
+    "id": "the-martian-2015",
+    "title": "The Martian",
+    "year": 2015,
+    "directors": [
+      "Ridley Scott"
+    ],
+    "cast": [
+      "Matt Damon",
+      "Jessica Chastain",
+      "Kristen Wiig",
+      "Chiwetel Ejiofor"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive..",
+    "synopsisLong": "An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive.",
+    "keywords": [
+      "strong-writing"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/5BHuvQ6p9kfc91Z2bGz7U0jB70d.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 8.0
+    },
+    "updatedAt": "2026-05-15T06:26:04.183778Z"
+  },
+  {
+    "id": "avengers-infinity-war-2018",
+    "title": "Avengers: Infinity War",
+    "year": 2018,
+    "directors": [
+      "Anthony Russo",
+      "Joe Russo"
+    ],
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Hemsworth",
+      "Mark Ruffalo",
+      "Chris Evans"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation puts an end to the universe..",
+    "synopsisLong": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation puts an end to the universe.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "space",
+      "superhero"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 8.4
+    },
+    "updatedAt": "2026-05-15T06:26:04.183791Z"
+  },
+  {
+    "id": "the-avengers-2012",
+    "title": "The Avengers",
+    "year": 2012,
+    "directors": [
+      "Joss Whedon"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2012..",
+    "synopsisLong": "An epic science fiction film released in 2012.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "superhero"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 8.0
+    },
+    "updatedAt": "2026-05-15T06:26:04.183802Z"
+  },
+  {
+    "id": "wall-e-2008",
+    "title": "WALL\u00b7E",
+    "year": 2008,
+    "directors": [
+      "Andrew Stanton"
+    ],
+    "cast": [
+      "Ben Burtt",
+      "Elissa Knight",
+      "Jeff Garlin",
+      "Fred Willard"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind..",
+    "synopsisLong": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",
+    "keywords": [
+      "strong-writing",
+      "space",
+      "post-apocalyptic"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/9cJETuLMc6R0bTWRA5i7ctY9bxk.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 8.4
+    },
+    "updatedAt": "2026-05-15T06:26:04.183814Z"
+  },
+  {
+    "id": "a-clockwork-orange-1971",
+    "title": "A Clockwork Orange",
+    "year": 1971,
+    "directors": [
+      "Stanley Kubrick"
+    ],
+    "cast": [
+      "Malcolm McDowell",
+      "Patrick Magee",
+      "Michael Bates",
+      "Warren Clarke"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it does not go as planned..",
+    "synopsisLong": "In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it does not go as planned.",
+    "keywords": [
+      "strong-writing",
+      "dystopian"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 8.3
+    },
+    "updatedAt": "2026-05-15T06:26:04.183826Z"
+  },
+  {
+    "id": "v-for-vendetta-2005",
+    "title": "V for Vendetta",
+    "year": 2005,
+    "directors": [
+      "James McTeigue"
+    ],
+    "cast": [
+      "Hugo Weaving",
+      "Natalie Portman",
+      "Rupert Graves",
+      "Stephen Rea"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "In a future British tyranny, a shadowy freedom fighter, known only by the alias of V, plots to overthrow it with the help of a young woman..",
+    "synopsisLong": "In a future British tyranny, a shadowy freedom fighter, known only by the alias of V, plots to overthrow it with the help of a young woman.",
+    "keywords": [
+      "strong-writing",
+      "dystopian"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/1avD1JeaRiWJ5ffL6HZNlBb3OUg.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 8.2
+    },
+    "updatedAt": "2026-05-15T06:26:04.183838Z"
+  },
+  {
+    "id": "star-wars-episode-iii-revenge-of-the-sith-2005",
+    "title": "Star Wars: Episode III \u2013 Revenge of the Sith",
+    "year": 2005,
+    "directors": [
+      "George Lucas"
+    ],
+    "cast": [
+      "Ewan McGregor",
+      "Natalie Portman",
+      "Hayden Christensen",
+      "Ian McDiarmid"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "Three years into the Clone Wars, the Jedi rescue Palpatine from Count Dooku.",
+    "synopsisLong": "Three years into the Clone Wars, the Jedi rescue Palpatine from Count Dooku. As Obi-Wan pursues a new threat, Anakin acts as a double agent between the Jedi Council and Palpatine.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "space"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/6wkfoF7F01e4yI5Tl7l2F7F7F7F.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.6
+    },
+    "updatedAt": "2026-05-15T06:26:04.183854Z"
+  },
+  {
+    "id": "star-wars-episode-vii-the-force-awakens-2015",
+    "title": "Star Wars: Episode VII \u2013 The Force Awakens",
+    "year": 2015,
+    "directors": [
+      "J.J. Abrams"
+    ],
+    "cast": [
+      "Daisy Ridley",
+      "John Boyega",
+      "Oscar Isaac",
+      "Adam Driver"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "Three decades after the Empire's defeat, a new threat arises in the militant First Order.",
+    "synopsisLong": "Three decades after the Empire's defeat, a new threat arises in the militant First Order. Defected stormtrooper Finn and the scavenger Rey are caught up in the Resistance's search for the missing Luke Skywalker.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "space"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/wqnLdwVXoBjKibFRR5U3O0W7O7O.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.8
+    },
+    "updatedAt": "2026-05-15T06:26:04.183872Z"
+  }
+]

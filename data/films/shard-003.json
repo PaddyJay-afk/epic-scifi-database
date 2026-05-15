@@ -1,0 +1,757 @@
+[
+  {
+    "id": "star-wars-episode-ii-attack-of-the-clones-2002",
+    "title": "Star Wars: Episode II \u2013 Attack of the Clones",
+    "year": 2002,
+    "directors": [
+      "George Lucas"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2002..",
+    "synopsisLong": "An epic science fiction film released in 2002.",
+    "keywords": [
+      "aliens",
+      "space"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.6
+    },
+    "updatedAt": "2026-05-15T06:26:04.184781Z"
+  },
+  {
+    "id": "star-wars-episode-viii-the-last-jedi-2017",
+    "title": "Star Wars: Episode VIII \u2013 The Last Jedi",
+    "year": 2017,
+    "directors": [
+      "Rian Johnson"
+    ],
+    "cast": [
+      "Daisy Ridley",
+      "John Boyega",
+      "Oscar Isaac",
+      "Adam Driver"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "Three decades after the Empire's defeat, a new threat arises in the militant First Order.",
+    "synopsisLong": "Three decades after the Empire's defeat, a new threat arises in the militant First Order. Defected stormtrooper Finn and the scavenger Rey are caught up in the Resistance's search for the missing Luke Skywalker.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "space"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/wqnLdwVXoBjKibFRR5U3O0W7O7O.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 6.9
+    },
+    "updatedAt": "2026-05-15T06:26:04.184804Z"
+  },
+  {
+    "id": "solo-a-star-wars-story-2018",
+    "title": "Solo: A Star Wars Story",
+    "year": 2018,
+    "directors": [
+      "Ron Howard"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2018..",
+    "synopsisLong": "An epic science fiction film released in 2018.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "space"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.9
+    },
+    "updatedAt": "2026-05-15T06:26:04.184817Z"
+  },
+  {
+    "id": "tron-legacy-2010",
+    "title": "TRON: Legacy",
+    "year": 2010,
+    "directors": [
+      "Joseph Kosinski"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2010..",
+    "synopsisLong": "An epic science fiction film released in 2010.",
+    "keywords": [
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.8
+    },
+    "updatedAt": "2026-05-15T06:26:04.184830Z"
+  },
+  {
+    "id": "star-wars-episode-ix-the-rise-of-skywalker-2019",
+    "title": "Star Wars: Episode IX \u2013 The Rise of Skywalker",
+    "year": 2019,
+    "directors": [
+      "J.J. Abrams"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2019..",
+    "synopsisLong": "An epic science fiction film released in 2019.",
+    "keywords": [
+      "aliens",
+      "space"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.5
+    },
+    "updatedAt": "2026-05-15T06:26:04.184857Z"
+  },
+  {
+    "id": "the-hitchhiker-s-guide-to-the-galaxy-2005",
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "year": 2005,
+    "directors": [
+      "Garth Jennings"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction",
+      "Comedy"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2005..",
+    "synopsisLong": "An epic science fiction film released in 2005.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "space"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.7
+    },
+    "updatedAt": "2026-05-15T06:26:04.184888Z"
+  },
+  {
+    "id": "armageddon-1998",
+    "title": "Armageddon",
+    "year": 1998,
+    "directors": [
+      "Michael Bay"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1998..",
+    "synopsisLong": "An epic science fiction film released in 1998.",
+    "keywords": [
+      "space"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.7
+    },
+    "updatedAt": "2026-05-15T06:26:04.184900Z"
+  },
+  {
+    "id": "john-carter-2012",
+    "title": "John Carter",
+    "year": 2012,
+    "directors": [
+      "Andrew Stanton"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2012..",
+    "synopsisLong": "An epic science fiction film released in 2012.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "space"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.6
+    },
+    "updatedAt": "2026-05-15T06:26:04.184912Z"
+  },
+  {
+    "id": "flight-of-the-navigator-1986",
+    "title": "Flight of the Navigator",
+    "year": 1986,
+    "directors": [
+      "Randal Kleiser"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1986..",
+    "synopsisLong": "An epic science fiction film released in 1986.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "time-travel"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.9
+    },
+    "updatedAt": "2026-05-15T06:26:04.184924Z"
+  },
+  {
+    "id": "the-black-hole-1979",
+    "title": "The Black Hole",
+    "year": 1979,
+    "directors": [
+      "Gary Nelson"
+    ],
+    "cast": [
+      "Maximilian Schell",
+      "Anthony Perkins",
+      "Robert Forster",
+      "Joseph Bottoms"
+    ],
+    "genres": [
+      "Horror"
+    ],
+    "synopsisShort": "A research vessel finds a missing ship, commanded by a mysterious scientist, on the edge of a black hole..",
+    "synopsisLong": "A research vessel finds a missing ship, commanded by a mysterious scientist, on the edge of a black hole.",
+    "keywords": [
+      "space",
+      "horror"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.0
+    },
+    "updatedAt": "2026-05-15T06:26:04.184937Z"
+  },
+  {
+    "id": "honey-i-shrunk-the-kids-1989",
+    "title": "Honey, I Shrunk the Kids",
+    "year": 1989,
+    "directors": [
+      "Joe Johnston"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1989..",
+    "synopsisLong": "An epic science fiction film released in 1989.",
+    "keywords": [],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.4
+    },
+    "updatedAt": "2026-05-15T06:26:04.184971Z"
+  },
+  {
+    "id": "the-rocketeer-1991",
+    "title": "The Rocketeer",
+    "year": 1991,
+    "directors": [
+      "Joe Johnston"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1991..",
+    "synopsisLong": "An epic science fiction film released in 1991.",
+    "keywords": [
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.5
+    },
+    "updatedAt": "2026-05-15T06:26:04.185006Z"
+  },
+  {
+    "id": "tron-1982",
+    "title": "TRON",
+    "year": 1982,
+    "directors": [
+      "Steven Lisberger"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1982..",
+    "synopsisLong": "An epic science fiction film released in 1982.",
+    "keywords": [
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.7
+    },
+    "updatedAt": "2026-05-15T06:26:04.185027Z"
+  },
+  {
+    "id": "tomorrowland-2015",
+    "title": "Tomorrowland",
+    "year": 2015,
+    "directors": [
+      "Brad Bird"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2015..",
+    "synopsisLong": "An epic science fiction film released in 2015.",
+    "keywords": [
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.4
+    },
+    "updatedAt": "2026-05-15T06:26:04.185053Z"
+  },
+  {
+    "id": "no-one-will-save-you-2023",
+    "title": "No One Will Save You",
+    "year": 2023,
+    "directors": [
+      "Brian Duffield"
+    ],
+    "cast": [],
+    "genres": [
+      "Horror"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2023..",
+    "synopsisLong": "An epic science fiction film released in 2023.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "horror"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.3
+    },
+    "updatedAt": "2026-05-15T06:26:04.185070Z"
+  },
+  {
+    "id": "the-host-2006",
+    "title": "The Host",
+    "year": 2006,
+    "directors": [
+      "Bong Joon Ho"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2006..",
+    "synopsisLong": "An epic science fiction film released in 2006.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.1
+    },
+    "updatedAt": "2026-05-15T06:26:04.185095Z"
+  },
+  {
+    "id": "10-cloverfield-lane-2016",
+    "title": "10 Cloverfield Lane",
+    "year": 2016,
+    "directors": [
+      "Dan Trachtenberg"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction",
+      "Thriller"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2016..",
+    "synopsisLong": "An epic science fiction film released in 2016.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.2
+    },
+    "updatedAt": "2026-05-15T06:26:04.185122Z"
+  },
+  {
+    "id": "a-quiet-place-2018",
+    "title": "A Quiet Place",
+    "year": 2018,
+    "directors": [
+      "John Krasinski"
+    ],
+    "cast": [],
+    "genres": [
+      "Horror"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2018..",
+    "synopsisLong": "An epic science fiction film released in 2018.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "horror",
+      "post-apocalyptic"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.5
+    },
+    "updatedAt": "2026-05-15T06:26:04.185151Z"
+  },
+  {
+    "id": "super-8-2011",
+    "title": "Super 8",
+    "year": 2011,
+    "directors": [
+      "J.J. Abrams"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2011..",
+    "synopsisLong": "An epic science fiction film released in 2011.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.0
+    },
+    "updatedAt": "2026-05-15T06:26:04.185174Z"
+  },
+  {
+    "id": "annihilation-2018",
+    "title": "Annihilation",
+    "year": 2018,
+    "directors": [
+      "Alex Garland"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction",
+      "Horror"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2018..",
+    "synopsisLong": "An epic science fiction film released in 2018.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "horror"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.8
+    },
+    "updatedAt": "2026-05-15T06:26:04.185198Z"
+  },
+  {
+    "id": "bumblebee-2018",
+    "title": "Bumblebee",
+    "year": 2018,
+    "directors": [
+      "Travis Knight"
+    ],
+    "cast": [],
+    "genres": [
+      "Action"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2018..",
+    "synopsisLong": "An epic science fiction film released in 2018.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "action"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.7
+    },
+    "updatedAt": "2026-05-15T06:26:04.185220Z"
+  },
+  {
+    "id": "transformers-2007",
+    "title": "Transformers",
+    "year": 2007,
+    "directors": [
+      "Michael Bay"
+    ],
+    "cast": [],
+    "genres": [
+      "Action"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2007..",
+    "synopsisLong": "An epic science fiction film released in 2007.",
+    "keywords": [
+      "aliens",
+      "action"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.0
+    },
+    "updatedAt": "2026-05-15T06:26:04.185251Z"
+  },
+  {
+    "id": "event-horizon-1997",
+    "title": "Event Horizon",
+    "year": 1997,
+    "directors": [
+      "Paul W.S. Anderson"
+    ],
+    "cast": [],
+    "genres": [
+      "Horror"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1997..",
+    "synopsisLong": "An epic science fiction film released in 1997.",
+    "keywords": [
+      "strong-writing",
+      "space",
+      "horror"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.6
+    },
+    "updatedAt": "2026-05-15T06:26:04.185266Z"
+  },
+  {
+    "id": "the-running-man-1987",
+    "title": "The Running Man",
+    "year": 1987,
+    "directors": [
+      "Paul Michael Glaser"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1987..",
+    "synopsisLong": "An epic science fiction film released in 1987.",
+    "keywords": [
+      "strong-writing",
+      "dystopian"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.6
+    },
+    "updatedAt": "2026-05-15T06:26:04.185279Z"
+  },
+  {
+    "id": "escape-from-new-york-1981",
+    "title": "Escape from New York",
+    "year": 1981,
+    "directors": [
+      "John Carpenter"
+    ],
+    "cast": [],
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1981..",
+    "synopsisLong": "An epic science fiction film released in 1981.",
+    "keywords": [
+      "strong-writing",
+      "dystopian",
+      "action"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.1
+    },
+    "updatedAt": "2026-05-15T06:26:04.185329Z"
+  },
+  {
+    "id": "they-live-1988",
+    "title": "They Live",
+    "year": 1988,
+    "directors": [
+      "John Carpenter"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1988..",
+    "synopsisLong": "An epic science fiction film released in 1988.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.2
+    },
+    "updatedAt": "2026-05-15T06:26:04.185360Z"
+  },
+  {
+    "id": "pandorum-2009",
+    "title": "Pandorum",
+    "year": 2009,
+    "directors": [
+      "Christian Alvart"
+    ],
+    "cast": [],
+    "genres": [
+      "Horror"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2009..",
+    "synopsisLong": "An epic science fiction film released in 2009.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "space",
+      "horror"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.7
+    },
+    "updatedAt": "2026-05-15T06:26:04.185372Z"
+  },
+  {
+    "id": "cloverfield-2008",
+    "title": "Cloverfield",
+    "year": 2008,
+    "directors": [
+      "Matt Reeves"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2008..",
+    "synopsisLong": "An epic science fiction film released in 2008.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.0
+    },
+    "updatedAt": "2026-05-15T06:26:04.185383Z"
+  },
+  {
+    "id": "the-faculty-1998",
+    "title": "The Faculty",
+    "year": 1998,
+    "directors": [
+      "Robert Rodriguez"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction",
+      "Horror",
+      "Thriller"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1998..",
+    "synopsisLong": "An epic science fiction film released in 1998.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "horror"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.6
+    },
+    "updatedAt": "2026-05-15T06:26:04.185404Z"
+  },
+  {
+    "id": "slither-2006",
+    "title": "Slither",
+    "year": 2006,
+    "directors": [
+      "James Gunn"
+    ],
+    "cast": [
+      "Joaquin Phoenix",
+      "Amy Adams",
+      "Scarlett Johansson",
+      "Rooney Mara"
+    ],
+    "genres": [
+      "Horror",
+      "Comedy"
+    ],
+    "synopsisShort": "In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need..",
+    "synopsisLong": "In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "horror"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/ezxNlyr05joU1bHcKv9EHZo8gTl.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 6.5
+    },
+    "updatedAt": "2026-05-15T06:26:04.185416Z"
+  }
+]

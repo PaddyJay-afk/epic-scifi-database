@@ -1,0 +1,746 @@
+[
+  {
+    "id": "europa-report-2013",
+    "title": "Europa Report",
+    "year": 2013,
+    "directors": [
+      "Sebasti\u00e1n Cordero"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction",
+      "Thriller"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2013..",
+    "synopsisLong": "An epic science fiction film released in 2013.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.4
+    },
+    "updatedAt": "2026-05-15T06:26:04.186145Z"
+  },
+  {
+    "id": "fire-in-the-sky-1993",
+    "title": "Fire in the Sky",
+    "year": 1993,
+    "directors": [
+      "Robert Lieberman"
+    ],
+    "cast": [],
+    "genres": [
+      "Horror"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1993..",
+    "synopsisLong": "An epic science fiction film released in 1993.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "horror"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.5
+    },
+    "updatedAt": "2026-05-15T06:26:04.186168Z"
+  },
+  {
+    "id": "monsters-2010",
+    "title": "Monsters",
+    "year": 2010,
+    "directors": [
+      "Gareth Edwards"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2010..",
+    "synopsisLong": "An epic science fiction film released in 2010.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.4
+    },
+    "updatedAt": "2026-05-15T06:26:04.186186Z"
+  },
+  {
+    "id": "dark-skies-2013",
+    "title": "Dark Skies",
+    "year": 2013,
+    "directors": [
+      "Scott Stewart"
+    ],
+    "cast": [],
+    "genres": [
+      "Horror"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2013..",
+    "synopsisLong": "An epic science fiction film released in 2013.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "horror"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.3
+    },
+    "updatedAt": "2026-05-15T06:26:04.186204Z"
+  },
+  {
+    "id": "sputnik-2020",
+    "title": "Sputnik",
+    "year": 2020,
+    "directors": [
+      "Egor Abramenko"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction",
+      "Horror"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2020..",
+    "synopsisLong": "An epic science fiction film released in 2020.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "horror"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.4
+    },
+    "updatedAt": "2026-05-15T06:26:04.186220Z"
+  },
+  {
+    "id": "28-weeks-later-2007",
+    "title": "28 Weeks Later",
+    "year": 2007,
+    "directors": [
+      "Juan Carlos Fresnadillo"
+    ],
+    "cast": [],
+    "genres": [
+      "Horror"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2007..",
+    "synopsisLong": "An epic science fiction film released in 2007.",
+    "keywords": [
+      "strong-writing",
+      "horror"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.9
+    },
+    "updatedAt": "2026-05-15T06:26:04.186244Z"
+  },
+  {
+    "id": "chronicle-2012",
+    "title": "Chronicle",
+    "year": 2012,
+    "directors": [
+      "Josh Trank"
+    ],
+    "cast": [],
+    "genres": [
+      "Thriller"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2012..",
+    "synopsisLong": "An epic science fiction film released in 2012.",
+    "keywords": [
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.0
+    },
+    "updatedAt": "2026-05-15T06:26:04.186258Z"
+  },
+  {
+    "id": "elysium-2013",
+    "title": "Elysium",
+    "year": 2013,
+    "directors": [
+      "Neill Blomkamp"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2013..",
+    "synopsisLong": "An epic science fiction film released in 2013.",
+    "keywords": [
+      "strong-writing",
+      "dystopian"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.6
+    },
+    "updatedAt": "2026-05-15T06:26:04.186271Z"
+  },
+  {
+    "id": "nope-2022",
+    "title": "Nope",
+    "year": 2022,
+    "directors": [
+      "Jordan Peele"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2022..",
+    "synopsisLong": "An epic science fiction film released in 2022.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.8
+    },
+    "updatedAt": "2026-05-15T06:26:04.186284Z"
+  },
+  {
+    "id": "the-chronicles-of-riddick-2004",
+    "title": "The Chronicles of Riddick",
+    "year": 2004,
+    "directors": [
+      "David Twohy"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2004..",
+    "synopsisLong": "An epic science fiction film released in 2004.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "space",
+      "dystopian"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.6
+    },
+    "updatedAt": "2026-05-15T06:26:04.186299Z"
+  },
+  {
+    "id": "the-lost-world-jurassic-park-1997",
+    "title": "The Lost World: Jurassic Park",
+    "year": 1997,
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "cast": [
+      "Sam Neill",
+      "Laura Dern",
+      "Jeff Goldblum",
+      "Richard Attenborough"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "A pragmatic paleontologist touring an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose..",
+    "synopsisLong": "A pragmatic paleontologist touring an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+    "keywords": [
+      "strong-writing"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/oU7Oq2kFAAlGqbU4VoAE36g4hoI.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 6.6
+    },
+    "updatedAt": "2026-05-15T06:26:04.186336Z"
+  },
+  {
+    "id": "jurassic-world-2015",
+    "title": "Jurassic World",
+    "year": 2015,
+    "directors": [
+      "Colin Trevorrow"
+    ],
+    "cast": [],
+    "genres": [
+      "Thriller"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2015..",
+    "synopsisLong": "An epic science fiction film released in 2015.",
+    "keywords": [],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.0
+    },
+    "updatedAt": "2026-05-15T06:26:04.186456Z"
+  },
+  {
+    "id": "the-invisible-man-2020",
+    "title": "The Invisible Man",
+    "year": 2020,
+    "directors": [
+      "Leigh Whannell"
+    ],
+    "cast": [],
+    "genres": [
+      "Thriller"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2020..",
+    "synopsisLong": "An epic science fiction film released in 2020.",
+    "keywords": [
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.1
+    },
+    "updatedAt": "2026-05-15T06:26:04.186490Z"
+  },
+  {
+    "id": "stargate-1994",
+    "title": "Stargate",
+    "year": 1994,
+    "directors": [
+      "Roland Emmerich"
+    ],
+    "cast": [],
+    "genres": [
+      "Adventure"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1994..",
+    "synopsisLong": "An epic science fiction film released in 1994.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.0
+    },
+    "updatedAt": "2026-05-15T06:26:04.186505Z"
+  },
+  {
+    "id": "interstellar-2014-164",
+    "title": "Interstellar",
+    "year": 2014,
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "cast": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Jessica Chastain",
+      "Michael Caine"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "synopsisLong": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival. Christopher Nolan's epic features stunning visuals and emotional depth.",
+    "keywords": [
+      "strong-writing",
+      "space"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/gEU2QniL6C8z19uVOtYnZHSqMvY.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 8.7
+    },
+    "updatedAt": "2026-05-15T06:26:04.186519Z"
+  },
+  {
+    "id": "a-i-artificial-intelligence-2001",
+    "title": "A.I. Artificial Intelligence",
+    "year": 2001,
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2001..",
+    "synopsisLong": "An epic science fiction film released in 2001.",
+    "keywords": [
+      "strong-writing",
+      "dystopian"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.2
+    },
+    "updatedAt": "2026-05-15T06:26:04.186535Z"
+  },
+  {
+    "id": "dredd-2012-166",
+    "title": "Dredd",
+    "year": 2012,
+    "directors": [
+      "Pete Travis"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2012..",
+    "synopsisLong": "An epic science fiction film released in 2012.",
+    "keywords": [
+      "strong-writing",
+      "dystopian",
+      "cyberpunk"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.1
+    },
+    "updatedAt": "2026-05-15T06:26:04.186554Z"
+  },
+  {
+    "id": "the-tomorrow-war-2021",
+    "title": "The Tomorrow War",
+    "year": 2021,
+    "directors": [
+      "Chris McKay"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2021..",
+    "synopsisLong": "An epic science fiction film released in 2021.",
+    "keywords": [
+      "aliens",
+      "time-travel"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.6
+    },
+    "updatedAt": "2026-05-15T06:26:04.186570Z"
+  },
+  {
+    "id": "the-vast-of-night-2019",
+    "title": "The Vast of Night",
+    "year": 2019,
+    "directors": [
+      "Andrew Patterson"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2019..",
+    "synopsisLong": "An epic science fiction film released in 2019.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.7
+    },
+    "updatedAt": "2026-05-15T06:26:04.186586Z"
+  },
+  {
+    "id": "cube-1997",
+    "title": "Cube",
+    "year": 1997,
+    "directors": [
+      "Vincenzo Natali"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction",
+      "Thriller"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1997..",
+    "synopsisLong": "An epic science fiction film released in 1997.",
+    "keywords": [
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.1
+    },
+    "updatedAt": "2026-05-15T06:26:04.186598Z"
+  },
+  {
+    "id": "scanners-1981",
+    "title": "Scanners",
+    "year": 1981,
+    "directors": [
+      "David Cronenberg"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction",
+      "Horror"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1981..",
+    "synopsisLong": "An epic science fiction film released in 1981.",
+    "keywords": [
+      "strong-writing",
+      "horror"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.7
+    },
+    "updatedAt": "2026-05-15T06:26:04.186609Z"
+  },
+  {
+    "id": "existenz-1999",
+    "title": "eXistenZ",
+    "year": 1999,
+    "directors": [
+      "David Cronenberg"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1999..",
+    "synopsisLong": "An epic science fiction film released in 1999.",
+    "keywords": [
+      "strong-writing",
+      "cyberpunk"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.8
+    },
+    "updatedAt": "2026-05-15T06:26:04.186626Z"
+  },
+  {
+    "id": "the-andromeda-strain-1971",
+    "title": "The Andromeda Strain",
+    "year": 1971,
+    "directors": [
+      "Robert Wise"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1971..",
+    "synopsisLong": "An epic science fiction film released in 1971.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.2
+    },
+    "updatedAt": "2026-05-15T06:26:04.186643Z"
+  },
+  {
+    "id": "silent-running-1972",
+    "title": "Silent Running",
+    "year": 1972,
+    "directors": [
+      "Douglas Trumbull"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1972..",
+    "synopsisLong": "An epic science fiction film released in 1972.",
+    "keywords": [
+      "strong-writing",
+      "space",
+      "dystopian"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.6
+    },
+    "updatedAt": "2026-05-15T06:26:04.186657Z"
+  },
+  {
+    "id": "planet-of-the-apes-1968",
+    "title": "Planet of the Apes",
+    "year": 1968,
+    "directors": [
+      "Franklin J. Schaffner"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1968..",
+    "synopsisLong": "An epic science fiction film released in 1968.",
+    "keywords": [
+      "strong-writing",
+      "post-apocalyptic"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 8.0
+    },
+    "updatedAt": "2026-05-15T06:26:04.186671Z"
+  },
+  {
+    "id": "soylent-green-1973",
+    "title": "Soylent Green",
+    "year": 1973,
+    "directors": [
+      "Richard Fleischer"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1973..",
+    "synopsisLong": "An epic science fiction film released in 1973.",
+    "keywords": [
+      "strong-writing",
+      "dystopian"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.0
+    },
+    "updatedAt": "2026-05-15T06:26:04.186683Z"
+  },
+  {
+    "id": "the-time-machine-1960",
+    "title": "The Time Machine",
+    "year": 1960,
+    "directors": [
+      "George Pal"
+    ],
+    "cast": [
+      "Guy Pearce",
+      "Samantha Mumba",
+      "Mark Addy",
+      "Sienna Guillory"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "A man's vision for a utopian society is disillusioned when travelling forward into time reveals a dark and dangerous society..",
+    "synopsisLong": "A man's vision for a utopian society is disillusioned when travelling forward into time reveals a dark and dangerous society.",
+    "keywords": [
+      "strong-writing",
+      "time-travel"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/z1x2c3v4b5n6m7k8j9h0g1f2d3s.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.5
+    },
+    "updatedAt": "2026-05-15T06:26:04.186696Z"
+  },
+  {
+    "id": "invasion-of-the-body-snatchers-1978-177",
+    "title": "Invasion of the Body Snatchers",
+    "year": 1978,
+    "directors": [
+      "Philip Kaufman"
+    ],
+    "cast": [
+      "Joaquin Phoenix",
+      "Amy Adams",
+      "Scarlett Johansson",
+      "Rooney Mara"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need..",
+    "synopsisLong": "In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/ezxNlyr05joU1bHcKv9EHZo8gTl.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.4
+    },
+    "updatedAt": "2026-05-15T06:26:04.186713Z"
+  },
+  {
+    "id": "attack-the-block-2011-178",
+    "title": "Attack the Block",
+    "year": 2011,
+    "directors": [
+      "Joe Cornish"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2011..",
+    "synopsisLong": "An epic science fiction film released in 2011.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.7
+    },
+    "updatedAt": "2026-05-15T06:26:04.186726Z"
+  },
+  {
+    "id": "snowpiercer-2013",
+    "title": "Snowpiercer",
+    "year": 2013,
+    "directors": [
+      "Bong Joon Ho"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2013..",
+    "synopsisLong": "An epic science fiction film released in 2013.",
+    "keywords": [
+      "strong-writing",
+      "post-apocalyptic"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.1
+    },
+    "updatedAt": "2026-05-15T06:26:04.186873Z"
+  }
+]

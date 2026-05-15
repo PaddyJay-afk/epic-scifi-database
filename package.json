@@ -1,0 +1,36 @@
+{
+  "name": "epic-scifi-v2",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "validate": "node scripts/validate-data.mjs",
+    "index": "node scripts/build-index.mjs",
+    "predeploy": "npm run validate && npm run index && npm run build",
+    "deploy": "gh-pages -d dist",
+    "lint": "npx tsc --noEmit"
+  },
+  "dependencies": {
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "framer-motion": "^12.38.0",
+    "lucide-react": "^1.16.0",
+    "minisearch": "^7.2.0",
+    "zod": "^4.4.3",
+    "react-router-dom": "^7.15.1"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "autoprefixer": "^10.4.21",
+    "gh-pages": "^6.3.0",
+    "postcss": "^8.5.4",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.5"
+  }
+}

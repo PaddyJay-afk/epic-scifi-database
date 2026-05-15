@@ -1,0 +1,785 @@
+[
+  {
+    "id": "attack-the-block-2011",
+    "title": "Attack the Block",
+    "year": 2011,
+    "directors": [
+      "Joe Cornish"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2011..",
+    "synopsisLong": "An epic science fiction film released in 2011.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.7
+    },
+    "updatedAt": "2026-05-15T06:26:04.185429Z"
+  },
+  {
+    "id": "midnight-special-2016",
+    "title": "Midnight Special",
+    "year": 2016,
+    "directors": [
+      "Jeff Nichols"
+    ],
+    "cast": [],
+    "genres": [
+      "Thriller"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2016..",
+    "synopsisLong": "An epic science fiction film released in 2016.",
+    "keywords": [
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.6
+    },
+    "updatedAt": "2026-05-15T06:26:04.185451Z"
+  },
+  {
+    "id": "enemy-mine-1985",
+    "title": "Enemy Mine",
+    "year": 1985,
+    "directors": [
+      "Wolfgang Petersen"
+    ],
+    "cast": [],
+    "genres": [
+      "Drama"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1985..",
+    "synopsisLong": "An epic science fiction film released in 1985.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.8
+    },
+    "updatedAt": "2026-05-15T06:26:04.185472Z"
+  },
+  {
+    "id": "the-man-who-fell-to-earth-1976",
+    "title": "The Man Who Fell to Earth",
+    "year": 1976,
+    "directors": [
+      "Nicolas Roeg"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction",
+      "Drama"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1976..",
+    "synopsisLong": "An epic science fiction film released in 1976.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.6
+    },
+    "updatedAt": "2026-05-15T06:26:04.185498Z"
+  },
+  {
+    "id": "starman-1984",
+    "title": "Starman",
+    "year": 1984,
+    "directors": [
+      "John Carpenter"
+    ],
+    "cast": [],
+    "genres": [
+      "Drama"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1984..",
+    "synopsisLong": "An epic science fiction film released in 1984.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.0
+    },
+    "updatedAt": "2026-05-15T06:26:04.185522Z"
+  },
+  {
+    "id": "invasion-of-the-body-snatchers-1978",
+    "title": "Invasion of the Body Snatchers",
+    "year": 1978,
+    "directors": [
+      "Philip Kaufman"
+    ],
+    "cast": [
+      "Joaquin Phoenix",
+      "Amy Adams",
+      "Scarlett Johansson",
+      "Rooney Mara"
+    ],
+    "genres": [
+      "Horror"
+    ],
+    "synopsisShort": "In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need..",
+    "synopsisLong": "In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "horror"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/ezxNlyr05joU1bHcKv9EHZo8gTl.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.4
+    },
+    "updatedAt": "2026-05-15T06:26:04.185538Z"
+  },
+  {
+    "id": "pacific-rim-2013",
+    "title": "Pacific Rim",
+    "year": 2013,
+    "directors": [
+      "Guillermo del Toro"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2013..",
+    "synopsisLong": "An epic science fiction film released in 2013.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.9
+    },
+    "updatedAt": "2026-05-15T06:26:04.185551Z"
+  },
+  {
+    "id": "contact-1997",
+    "title": "Contact",
+    "year": 1997,
+    "directors": [
+      "Robert Zemeckis"
+    ],
+    "cast": [
+      "Jodie Foster",
+      "Matthew McConaughey",
+      "Tom Skerritt",
+      "John Hurt"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "Dr.",
+    "synopsisLong": "Dr. Ellie Arroway, after years of searching, finds conclusive radio proof of extraterrestrial intelligence, sending plans for a mysterious machine.",
+    "keywords": [
+      "strong-writing"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/bCpMIy5L6WK5RUfj8XW8k9y8u8u.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.5
+    },
+    "updatedAt": "2026-05-15T06:26:04.185562Z"
+  },
+  {
+    "id": "i-am-legend-2007",
+    "title": "I Am Legend",
+    "year": 2007,
+    "directors": [
+      "Francis Lawrence"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2007..",
+    "synopsisLong": "An epic science fiction film released in 2007.",
+    "keywords": [
+      "strong-writing",
+      "post-apocalyptic"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.2
+    },
+    "updatedAt": "2026-05-15T06:26:04.185574Z"
+  },
+  {
+    "id": "tenet-2020",
+    "title": "Tenet",
+    "year": 2020,
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2020..",
+    "synopsisLong": "An epic science fiction film released in 2020.",
+    "keywords": [
+      "strong-writing",
+      "time-travel"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.3
+    },
+    "updatedAt": "2026-05-15T06:26:04.185585Z"
+  },
+  {
+    "id": "2010-the-year-we-make-contact-1984",
+    "title": "2010: The Year We Make Contact",
+    "year": 1984,
+    "directors": [
+      "Peter Hyams"
+    ],
+    "cast": [
+      "Jodie Foster",
+      "Matthew McConaughey",
+      "Tom Skerritt",
+      "John Hurt"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "Dr.",
+    "synopsisLong": "Dr. Ellie Arroway, after years of searching, finds conclusive radio proof of extraterrestrial intelligence, sending plans for a mysterious machine.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "space"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/bCpMIy5L6WK5RUfj8XW8k9y8u8u.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 6.7
+    },
+    "updatedAt": "2026-05-15T06:26:04.185605Z"
+  },
+  {
+    "id": "logan-s-run-1976",
+    "title": "Logan's Run",
+    "year": 1976,
+    "directors": [
+      "Michael Anderson"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1976..",
+    "synopsisLong": "An epic science fiction film released in 1976.",
+    "keywords": [
+      "strong-writing",
+      "dystopian"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.8
+    },
+    "updatedAt": "2026-05-15T06:26:04.185634Z"
+  },
+  {
+    "id": "thx-1138-1971",
+    "title": "THX 1138",
+    "year": 1971,
+    "directors": [
+      "George Lucas"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1971..",
+    "synopsisLong": "An epic science fiction film released in 1971.",
+    "keywords": [
+      "strong-writing",
+      "dystopian"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.6
+    },
+    "updatedAt": "2026-05-15T06:26:04.185647Z"
+  },
+  {
+    "id": "demolition-man-1993",
+    "title": "Demolition Man",
+    "year": 1993,
+    "directors": [
+      "Marco Brambilla"
+    ],
+    "cast": [],
+    "genres": [
+      "Action"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1993..",
+    "synopsisLong": "An epic science fiction film released in 1993.",
+    "keywords": [
+      "strong-writing",
+      "action",
+      "cyberpunk"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.7
+    },
+    "updatedAt": "2026-05-15T06:26:04.185664Z"
+  },
+  {
+    "id": "the-creator-2023",
+    "title": "The Creator",
+    "year": 2023,
+    "directors": [
+      "Gareth Edwards"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2023..",
+    "synopsisLong": "An epic science fiction film released in 2023.",
+    "keywords": [
+      "strong-writing",
+      "dystopian"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.7
+    },
+    "updatedAt": "2026-05-15T06:26:04.185680Z"
+  },
+  {
+    "id": "alien-1992",
+    "title": "Alien\u00b3",
+    "year": 1992,
+    "directors": [
+      "David Fincher"
+    ],
+    "cast": [
+      "Sigourney Weaver",
+      "Tom Skerritt",
+      "John Hurt",
+      "Veronica Cartwright"
+    ],
+    "genres": [
+      "Horror"
+    ],
+    "synopsisShort": "The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown distress signal on a distant moon..",
+    "synopsisLong": "The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown distress signal on a distant moon.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "horror"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 6.5
+    },
+    "updatedAt": "2026-05-15T06:26:04.185693Z"
+  },
+  {
+    "id": "alien-resurrection-1997",
+    "title": "Alien: Resurrection",
+    "year": 1997,
+    "directors": [
+      "Jean-Pierre Jeunet"
+    ],
+    "cast": [
+      "Sigourney Weaver",
+      "Tom Skerritt",
+      "John Hurt",
+      "Veronica Cartwright"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Horror"
+    ],
+    "synopsisShort": "The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown distress signal on a distant moon..",
+    "synopsisLong": "The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown distress signal on a distant moon.",
+    "keywords": [
+      "aliens",
+      "horror"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 6.2
+    },
+    "updatedAt": "2026-05-15T06:26:04.185705Z"
+  },
+  {
+    "id": "alien-covenant-2017",
+    "title": "Alien: Covenant",
+    "year": 2017,
+    "directors": [
+      "Ridley Scott"
+    ],
+    "cast": [
+      "Sigourney Weaver",
+      "Tom Skerritt",
+      "John Hurt",
+      "Veronica Cartwright"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Horror"
+    ],
+    "synopsisShort": "The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown distress signal on a distant moon..",
+    "synopsisLong": "The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown distress signal on a distant moon.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "horror"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 6.4
+    },
+    "updatedAt": "2026-05-15T06:26:04.185718Z"
+  },
+  {
+    "id": "the-mist-2007",
+    "title": "The Mist",
+    "year": 2007,
+    "directors": [
+      "Frank Darabont"
+    ],
+    "cast": [],
+    "genres": [
+      "Horror"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2007..",
+    "synopsisLong": "An epic science fiction film released in 2007.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "horror"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.1
+    },
+    "updatedAt": "2026-05-15T06:26:04.185743Z"
+  },
+  {
+    "id": "tremors-1990",
+    "title": "Tremors",
+    "year": 1990,
+    "directors": [
+      "Ron Underwood"
+    ],
+    "cast": [],
+    "genres": [
+      "Comedy"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1990..",
+    "synopsisLong": "An epic science fiction film released in 1990.",
+    "keywords": [
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.1
+    },
+    "updatedAt": "2026-05-15T06:26:04.185830Z"
+  },
+  {
+    "id": "under-the-skin-2013",
+    "title": "Under the Skin",
+    "year": 2013,
+    "directors": [
+      "Jonathan Glazer"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2013..",
+    "synopsisLong": "An epic science fiction film released in 2013.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.3
+    },
+    "updatedAt": "2026-05-15T06:26:04.185981Z"
+  },
+  {
+    "id": "signs-2002",
+    "title": "Signs",
+    "year": 2002,
+    "directors": [
+      "M. Night Shyamalan"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2002..",
+    "synopsisLong": "An epic science fiction film released in 2002.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.8
+    },
+    "updatedAt": "2026-05-15T06:26:04.186014Z"
+  },
+  {
+    "id": "war-of-the-worlds-2005",
+    "title": "War of the Worlds",
+    "year": 2005,
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "cast": [
+      "Tom Cruise",
+      "Dakota Fanning",
+      "Tim Robbins",
+      "Miranda Otto"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An alien invasion threatens the future of humanity.",
+    "synopsisLong": "An alien invasion threatens the future of humanity. The catastrophic nightmare is seen through the eyes of one American family fighting for survival.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/6Biy7R7Lfum3h1rQ2Wz1l6j7k4k.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 6.5
+    },
+    "updatedAt": "2026-05-15T06:26:04.186029Z"
+  },
+  {
+    "id": "the-arrival-1996",
+    "title": "The Arrival",
+    "year": 1996,
+    "directors": [
+      "David Twohy"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction",
+      "Thriller"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1996..",
+    "synopsisLong": "An epic science fiction film released in 1996.",
+    "keywords": [
+      "aliens"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.3
+    },
+    "updatedAt": "2026-05-15T06:26:04.186056Z"
+  },
+  {
+    "id": "species-1995",
+    "title": "Species",
+    "year": 1995,
+    "directors": [
+      "Roger Donaldson"
+    ],
+    "cast": [],
+    "genres": [
+      "Horror"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1995..",
+    "synopsisLong": "An epic science fiction film released in 1995.",
+    "keywords": [
+      "aliens",
+      "horror"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 5.9
+    },
+    "updatedAt": "2026-05-15T06:26:04.186073Z"
+  },
+  {
+    "id": "predators-2010",
+    "title": "Predators",
+    "year": 2010,
+    "directors": [
+      "Nimr\u00f3d Antal"
+    ],
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Carl Weathers",
+      "Kevin Peter Hall",
+      "Jesse Ventura"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "A team of commandos on a mission in a Central American jungle find themselves hunted by an extraterrestrial warrior..",
+    "synopsisLong": "A team of commandos on a mission in a Central American jungle find themselves hunted by an extraterrestrial warrior.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/c0gq9cBh2E2nH47F0Y9Q2nZ0Y9Q.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 6.4
+    },
+    "updatedAt": "2026-05-15T06:26:04.186086Z"
+  },
+  {
+    "id": "the-predator-2018",
+    "title": "The Predator",
+    "year": 2018,
+    "directors": [
+      "Shane Black"
+    ],
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Carl Weathers",
+      "Kevin Peter Hall",
+      "Jesse Ventura"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "A team of commandos on a mission in a Central American jungle find themselves hunted by an extraterrestrial warrior..",
+    "synopsisLong": "A team of commandos on a mission in a Central American jungle find themselves hunted by an extraterrestrial warrior.",
+    "keywords": [
+      "aliens"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/c0gq9cBh2E2nH47F0Y9Q2nZ0Y9Q.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 5.3
+    },
+    "updatedAt": "2026-05-15T06:26:04.186097Z"
+  },
+  {
+    "id": "sphere-1998",
+    "title": "Sphere",
+    "year": 1998,
+    "directors": [
+      "Barry Levinson"
+    ],
+    "cast": [
+      "Joaquin Phoenix",
+      "Amy Adams",
+      "Scarlett Johansson",
+      "Rooney Mara"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need..",
+    "synopsisLong": "In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/ezxNlyr05joU1bHcKv9EHZo8gTl.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 6.1
+    },
+    "updatedAt": "2026-05-15T06:26:04.186110Z"
+  },
+  {
+    "id": "life-2017",
+    "title": "Life",
+    "year": 2017,
+    "directors": [
+      "Daniel Espinosa"
+    ],
+    "cast": [],
+    "genres": [
+      "Horror"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2017..",
+    "synopsisLong": "An epic science fiction film released in 2017.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "space",
+      "horror"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.6
+    },
+    "updatedAt": "2026-05-15T06:26:04.186121Z"
+  },
+  {
+    "id": "oblivion-2013",
+    "title": "Oblivion",
+    "year": 2013,
+    "directors": [
+      "Joseph Kosinski"
+    ],
+    "cast": [
+      "Tom Cruise",
+      "Morgan Freeman",
+      "Andrea Riseborough",
+      "Olga Kurylenko"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "A veteran assigned to extract Earth's remaining resources begins to question what he knows about his mission and himself..",
+    "synopsisLong": "A veteran assigned to extract Earth's remaining resources begins to question what he knows about his mission and himself.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "post-apocalyptic"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/xl2u7gAH0JfCyCHowerHTJCTMJH.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.0
+    },
+    "updatedAt": "2026-05-15T06:26:04.186132Z"
+  }
+]

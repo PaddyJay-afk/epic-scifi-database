@@ -1,0 +1,666 @@
+[
+  {
+    "id": "ant-man-and-the-wasp-2018",
+    "title": "Ant-Man and the Wasp",
+    "year": 2018,
+    "directors": [
+      "Peyton Reed"
+    ],
+    "cast": [
+      "Paul Rudd",
+      "Michael Douglas",
+      "Evangeline Lilly",
+      "Corey Stoll"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor pull off a heist..",
+    "synopsisLong": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor pull off a heist.",
+    "keywords": [
+      "strong-writing",
+      "superhero"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/D6e8R/2nPyoX8a6TK7g8sP5s5s5s5s5s.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.0
+    },
+    "updatedAt": "2026-05-15T06:26:04.189156Z"
+  },
+  {
+    "id": "ant-man-and-the-wasp-quantumania-2023",
+    "title": "Ant-Man and the Wasp: Quantumania",
+    "year": 2023,
+    "directors": [
+      "Peyton Reed"
+    ],
+    "cast": [
+      "Paul Rudd",
+      "Michael Douglas",
+      "Evangeline Lilly",
+      "Corey Stoll"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor pull off a heist..",
+    "synopsisLong": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor pull off a heist.",
+    "keywords": [
+      "aliens"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/D6e8R/2nPyoX8a6TK7g8sP5s5s5s5s5s.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 6.1
+    },
+    "updatedAt": "2026-05-15T06:26:04.189188Z"
+  },
+  {
+    "id": "black-widow-2021",
+    "title": "Black Widow",
+    "year": 2021,
+    "directors": [
+      "Cate Shortland"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2021..",
+    "synopsisLong": "An epic science fiction film released in 2021.",
+    "keywords": [
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.7
+    },
+    "updatedAt": "2026-05-15T06:26:04.189201Z"
+  },
+  {
+    "id": "incredible-hulk-2008",
+    "title": "Incredible Hulk",
+    "year": 2008,
+    "directors": [
+      "Louis Leterrier"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2008..",
+    "synopsisLong": "An epic science fiction film released in 2008.",
+    "keywords": [],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.6
+    },
+    "updatedAt": "2026-05-15T06:26:04.189213Z"
+  },
+  {
+    "id": "fantastic-four-2005",
+    "title": "Fantastic Four",
+    "year": 2005,
+    "directors": [
+      "Tim Story"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2005..",
+    "synopsisLong": "An epic science fiction film released in 2005.",
+    "keywords": [
+      "aliens",
+      "space",
+      "superhero"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 5.7
+    },
+    "updatedAt": "2026-05-15T06:26:04.189224Z"
+  },
+  {
+    "id": "fantastic-four-rise-of-the-silver-surfer-2007",
+    "title": "Fantastic Four: Rise of the Silver Surfer",
+    "year": 2007,
+    "directors": [
+      "Tim Story"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2007..",
+    "synopsisLong": "An epic science fiction film released in 2007.",
+    "keywords": [
+      "aliens",
+      "space",
+      "superhero"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 5.6
+    },
+    "updatedAt": "2026-05-15T06:26:04.189240Z"
+  },
+  {
+    "id": "doom-2005",
+    "title": "Doom",
+    "year": 2005,
+    "directors": [
+      "Andrzej Bartkowiak"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2005..",
+    "synopsisLong": "An epic science fiction film released in 2005.",
+    "keywords": [
+      "aliens"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 5.2
+    },
+    "updatedAt": "2026-05-15T06:26:04.189257Z"
+  },
+  {
+    "id": "virus-1999",
+    "title": "Virus",
+    "year": 1999,
+    "directors": [
+      "John Bruno"
+    ],
+    "cast": [
+      "Jamie Lee Curtis",
+      "William Baldwin",
+      "Donald Sutherland",
+      "Joanna Pacula"
+    ],
+    "genres": [
+      "Horror"
+    ],
+    "synopsisShort": "When the crew of an American tugboat boards an abandoned Russian research vessel, the alien life form aboard regards them as a virus which must be destroyed..",
+    "synopsisLong": "When the crew of an American tugboat boards an abandoned Russian research vessel, the alien life form aboard regards them as a virus which must be destroyed.",
+    "keywords": [
+      "aliens",
+      "space",
+      "horror"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 5.0
+    },
+    "updatedAt": "2026-05-15T06:26:04.189286Z"
+  },
+  {
+    "id": "ghosts-of-mars-2001",
+    "title": "Ghosts of Mars",
+    "year": 2001,
+    "directors": [
+      "John Carpenter"
+    ],
+    "cast": [],
+    "genres": [
+      "Horror"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2001..",
+    "synopsisLong": "An epic science fiction film released in 2001.",
+    "keywords": [
+      "aliens",
+      "space",
+      "horror"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 4.9
+    },
+    "updatedAt": "2026-05-15T06:26:04.189310Z"
+  },
+  {
+    "id": "cowboys-aliens-2011",
+    "title": "Cowboys & Aliens",
+    "year": 2011,
+    "directors": [
+      "Jon Favreau"
+    ],
+    "cast": [
+      "Sigourney Weaver",
+      "Michael Biehn",
+      "Carrie Henn",
+      "Paul Reiser"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "Decades after surviving the Nostromo incident, Ellen Ripley is sent out to re-establish contact with a terraforming colony but finds herself battling the Alien Queen and her offspring..",
+    "synopsisLong": "Decades after surviving the Nostromo incident, Ellen Ripley is sent out to re-establish contact with a terraforming colony but finds herself battling the Alien Queen and her offspring.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/r1x5JGpyqZU8PYhBS4UcrO1Xb6x.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 6.0
+    },
+    "updatedAt": "2026-05-15T06:26:04.189356Z"
+  },
+  {
+    "id": "supernova-2000",
+    "title": "Supernova",
+    "year": 2000,
+    "directors": [
+      "Walter Hill"
+    ],
+    "cast": [],
+    "genres": [
+      "Horror"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2000..",
+    "synopsisLong": "An epic science fiction film released in 2000.",
+    "keywords": [
+      "aliens",
+      "space",
+      "horror"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 4.8
+    },
+    "updatedAt": "2026-05-15T06:26:04.192146Z"
+  },
+  {
+    "id": "apollo-18-2011",
+    "title": "Apollo 18",
+    "year": 2011,
+    "directors": [
+      "Gonzalo L\u00f3pez-Gallego"
+    ],
+    "cast": [],
+    "genres": [
+      "Horror"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2011..",
+    "synopsisLong": "An epic science fiction film released in 2011.",
+    "keywords": [
+      "aliens",
+      "horror"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 5.2
+    },
+    "updatedAt": "2026-05-15T06:26:04.192420Z"
+  },
+  {
+    "id": "the-darkest-hour-2011",
+    "title": "The Darkest Hour",
+    "year": 2011,
+    "directors": [
+      "Chris Gorak"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2011..",
+    "synopsisLong": "An epic science fiction film released in 2011.",
+    "keywords": [
+      "aliens"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 4.9
+    },
+    "updatedAt": "2026-05-15T06:26:04.192685Z"
+  },
+  {
+    "id": "battle-los-angeles-2011",
+    "title": "Battle: Los Angeles",
+    "year": 2011,
+    "directors": [
+      "Jonathan Liebesman"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2011..",
+    "synopsisLong": "An epic science fiction film released in 2011.",
+    "keywords": [
+      "aliens"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 5.7
+    },
+    "updatedAt": "2026-05-15T06:26:04.192767Z"
+  },
+  {
+    "id": "battleship-2012",
+    "title": "Battleship",
+    "year": 2012,
+    "directors": [
+      "Peter Berg"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2012..",
+    "synopsisLong": "An epic science fiction film released in 2012.",
+    "keywords": [
+      "aliens"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 5.8
+    },
+    "updatedAt": "2026-05-15T06:26:04.192859Z"
+  },
+  {
+    "id": "i-am-number-four-2011",
+    "title": "I Am Number Four",
+    "year": 2011,
+    "directors": [
+      "D.J. Caruso"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2011..",
+    "synopsisLong": "An epic science fiction film released in 2011.",
+    "keywords": [
+      "aliens"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.1
+    },
+    "updatedAt": "2026-05-15T06:26:04.192885Z"
+  },
+  {
+    "id": "the-host-2013",
+    "title": "The Host",
+    "year": 2013,
+    "directors": [
+      "Andrew Niccol"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2013..",
+    "synopsisLong": "An epic science fiction film released in 2013.",
+    "keywords": [
+      "aliens"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 5.9
+    },
+    "updatedAt": "2026-05-15T06:26:04.193044Z"
+  },
+  {
+    "id": "the-fifth-wave-2016",
+    "title": "The Fifth Wave",
+    "year": 2016,
+    "directors": [
+      "J Blakeson"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2016..",
+    "synopsisLong": "An epic science fiction film released in 2016.",
+    "keywords": [
+      "aliens",
+      "dystopian"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 5.2
+    },
+    "updatedAt": "2026-05-15T06:26:04.193066Z"
+  },
+  {
+    "id": "after-earth-2013",
+    "title": "After Earth",
+    "year": 2013,
+    "directors": [
+      "M. Night Shyamalan"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2013..",
+    "synopsisLong": "An epic science fiction film released in 2013.",
+    "keywords": [
+      "post-apocalyptic"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 4.8
+    },
+    "updatedAt": "2026-05-15T06:26:04.193148Z"
+  },
+  {
+    "id": "oblivion-2013-259",
+    "title": "Oblivion",
+    "year": 2013,
+    "directors": [
+      "Joseph Kosinski"
+    ],
+    "cast": [
+      "Tom Cruise",
+      "Morgan Freeman",
+      "Andrea Riseborough",
+      "Olga Kurylenko"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "A veteran assigned to extract Earth's remaining resources begins to question what he knows about his mission and himself..",
+    "synopsisLong": "A veteran assigned to extract Earth's remaining resources begins to question what he knows about his mission and himself.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "post-apocalyptic"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/xl2u7gAH0JfCyCHowerHTJCTMJH.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.0
+    },
+    "updatedAt": "2026-05-15T06:26:04.193231Z"
+  },
+  {
+    "id": "in-time-2011",
+    "title": "In Time",
+    "year": 2011,
+    "directors": [
+      "Andrew Niccol"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2011..",
+    "synopsisLong": "An epic science fiction film released in 2011.",
+    "keywords": [
+      "strong-writing",
+      "dystopian",
+      "time-travel"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.7
+    },
+    "updatedAt": "2026-05-15T06:26:04.198993Z"
+  },
+  {
+    "id": "repo-men-2010",
+    "title": "Repo Men",
+    "year": 2010,
+    "directors": [
+      "Miguel Sapochnik"
+    ],
+    "cast": [],
+    "genres": [
+      "Horror"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2010..",
+    "synopsisLong": "An epic science fiction film released in 2010.",
+    "keywords": [
+      "strong-writing",
+      "dystopian",
+      "horror",
+      "cyberpunk"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.3
+    },
+    "updatedAt": "2026-05-15T06:26:04.199279Z"
+  },
+  {
+    "id": "self-less-2015",
+    "title": "Self/less",
+    "year": 2015,
+    "directors": [
+      "Tarsem Singh"
+    ],
+    "cast": [],
+    "genres": [
+      "Thriller"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2015..",
+    "synopsisLong": "An epic science fiction film released in 2015.",
+    "keywords": [
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.5
+    },
+    "updatedAt": "2026-05-15T06:26:04.199379Z"
+  },
+  {
+    "id": "limitless-2011",
+    "title": "Limitless",
+    "year": 2011,
+    "directors": [
+      "Neil Burger"
+    ],
+    "cast": [],
+    "genres": [
+      "Thriller"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2011..",
+    "synopsisLong": "An epic science fiction film released in 2011.",
+    "keywords": [
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.4
+    },
+    "updatedAt": "2026-05-15T06:26:04.199472Z"
+  },
+  {
+    "id": "jumper-2008",
+    "title": "Jumper",
+    "year": 2008,
+    "directors": [
+      "Doug Liman"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2008..",
+    "synopsisLong": "An epic science fiction film released in 2008.",
+    "keywords": [],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.1
+    },
+    "updatedAt": "2026-05-15T06:26:04.199565Z"
+  },
+  {
+    "id": "push-2009",
+    "title": "Push",
+    "year": 2009,
+    "directors": [
+      "Paul McGuigan"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2009..",
+    "synopsisLong": "An epic science fiction film released in 2009.",
+    "keywords": [
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.1
+    },
+    "updatedAt": "2026-05-15T06:26:04.199659Z"
+  },
+  {
+    "id": "looper-2012-266",
+    "title": "Looper",
+    "year": 2012,
+    "directors": [
+      "Rian Johnson"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "In 2074, when the mob wants to get rid of someone, the target is sent into the past, where a hired gun awaits..",
+    "synopsisLong": "In 2074, when the mob wants to get rid of someone, the target is sent into the past, where a hired gun awaits.",
+    "keywords": [
+      "strong-writing",
+      "time-travel"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/sNjL6SqErDBE8OUZlrDLkexfsCj.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.4
+    },
+    "updatedAt": "2026-05-15T06:26:04.199753Z"
+  }
+]

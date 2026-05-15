@@ -1,0 +1,756 @@
+[
+  {
+    "id": "starship-troopers-1997-180",
+    "title": "Starship Troopers",
+    "year": 1997,
+    "directors": [
+      "Paul Verhoeven"
+    ],
+    "cast": [
+      "Casper Van Dien",
+      "Dina Meyer",
+      "Denise Richards",
+      "Jake Busey"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "Humans in a fascistic, militaristic future do battle with giant alien bugs in a fight for survival..",
+    "synopsisLong": "Humans in a fascistic, militaristic future do battle with giant alien bugs in a fight for survival.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/cvX8zP1vFY5fWo7IdHd6QqQvY8u.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.3
+    },
+    "updatedAt": "2026-05-15T06:26:04.186894Z"
+  },
+  {
+    "id": "dark-city-1998-181",
+    "title": "Dark City",
+    "year": 1998,
+    "directors": [
+      "Alex Proyas"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1998..",
+    "synopsisLong": "An epic science fiction film released in 1998.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "cyberpunk"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.6
+    },
+    "updatedAt": "2026-05-15T06:26:04.186916Z"
+  },
+  {
+    "id": "event-horizon-1997-182",
+    "title": "Event Horizon",
+    "year": 1997,
+    "directors": [
+      "Paul W.S. Anderson"
+    ],
+    "cast": [],
+    "genres": [
+      "Horror"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1997..",
+    "synopsisLong": "An epic science fiction film released in 1997.",
+    "keywords": [
+      "strong-writing",
+      "space",
+      "horror"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.6
+    },
+    "updatedAt": "2026-05-15T06:26:04.186934Z"
+  },
+  {
+    "id": "pandorum-2009-183",
+    "title": "Pandorum",
+    "year": 2009,
+    "directors": [
+      "Christian Alvart"
+    ],
+    "cast": [],
+    "genres": [
+      "Horror"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2009..",
+    "synopsisLong": "An epic science fiction film released in 2009.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "space",
+      "horror"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.7
+    },
+    "updatedAt": "2026-05-15T06:26:04.186960Z"
+  },
+  {
+    "id": "they-live-1988-184",
+    "title": "They Live",
+    "year": 1988,
+    "directors": [
+      "John Carpenter"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1988..",
+    "synopsisLong": "An epic science fiction film released in 1988.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.2
+    },
+    "updatedAt": "2026-05-15T06:26:04.186975Z"
+  },
+  {
+    "id": "escape-from-new-york-1981-185",
+    "title": "Escape from New York",
+    "year": 1981,
+    "directors": [
+      "John Carpenter"
+    ],
+    "cast": [],
+    "genres": [
+      "Action"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1981..",
+    "synopsisLong": "An epic science fiction film released in 1981.",
+    "keywords": [
+      "strong-writing",
+      "dystopian",
+      "action"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.1
+    },
+    "updatedAt": "2026-05-15T06:26:04.186990Z"
+  },
+  {
+    "id": "the-running-man-1987-186",
+    "title": "The Running Man",
+    "year": 1987,
+    "directors": [
+      "Paul Michael Glaser"
+    ],
+    "cast": [],
+    "genres": [
+      "Action"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1987..",
+    "synopsisLong": "An epic science fiction film released in 1987.",
+    "keywords": [
+      "strong-writing",
+      "dystopian",
+      "action"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.6
+    },
+    "updatedAt": "2026-05-15T06:26:04.187004Z"
+  },
+  {
+    "id": "total-recall-1990-187",
+    "title": "Total Recall",
+    "year": 1990,
+    "directors": [
+      "Paul Verhoeven"
+    ],
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Sharon Stone",
+      "Michael Ironside",
+      "Rachel Ticotin"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "When a man goes in to have virtual vacation memories of the planet Mars implanted in his mind, an unexpected and harrowing series of events forces him to go to the planet for real..",
+    "synopsisLong": "When a man goes in to have virtual vacation memories of the planet Mars implanted in his mind, an unexpected and harrowing series of events forces him to go to the planet for real.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/yFULm2g22xym8fHXpM7TYR4g5Y3.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.5
+    },
+    "updatedAt": "2026-05-15T06:26:04.187017Z"
+  },
+  {
+    "id": "equilibrium-2002-188",
+    "title": "Equilibrium",
+    "year": 2002,
+    "directors": [
+      "Kurt Wimmer"
+    ],
+    "cast": [],
+    "genres": [
+      "Action"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2002..",
+    "synopsisLong": "An epic science fiction film released in 2002.",
+    "keywords": [
+      "strong-writing",
+      "dystopian",
+      "action"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.3
+    },
+    "updatedAt": "2026-05-15T06:26:04.187111Z"
+  },
+  {
+    "id": "enemy-mine-1985-189",
+    "title": "Enemy Mine",
+    "year": 1985,
+    "directors": [
+      "Wolfgang Petersen"
+    ],
+    "cast": [],
+    "genres": [
+      "Drama"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1985..",
+    "synopsisLong": "An epic science fiction film released in 1985.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "space"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.8
+    },
+    "updatedAt": "2026-05-15T06:26:04.187126Z"
+  },
+  {
+    "id": "logan-s-run-1976-190",
+    "title": "Logan's Run",
+    "year": 1976,
+    "directors": [
+      "Michael Anderson"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1976..",
+    "synopsisLong": "An epic science fiction film released in 1976.",
+    "keywords": [
+      "strong-writing",
+      "dystopian"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.8
+    },
+    "updatedAt": "2026-05-15T06:26:04.187139Z"
+  },
+  {
+    "id": "2010-the-year-we-make-contact-1984-191",
+    "title": "2010: The Year We Make Contact",
+    "year": 1984,
+    "directors": [
+      "Peter Hyams"
+    ],
+    "cast": [
+      "Jodie Foster",
+      "Matthew McConaughey",
+      "Tom Skerritt",
+      "John Hurt"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "Dr.",
+    "synopsisLong": "Dr. Ellie Arroway, after years of searching, finds conclusive radio proof of extraterrestrial intelligence, sending plans for a mysterious machine.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "space"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/bCpMIy5L6WK5RUfj8XW8k9y8u8u.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 6.7
+    },
+    "updatedAt": "2026-05-15T06:26:04.187164Z"
+  },
+  {
+    "id": "demolition-man-1993-192",
+    "title": "Demolition Man",
+    "year": 1993,
+    "directors": [
+      "Marco Brambilla"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1993..",
+    "synopsisLong": "An epic science fiction film released in 1993.",
+    "keywords": [
+      "strong-writing",
+      "cyberpunk"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.7
+    },
+    "updatedAt": "2026-05-15T06:26:04.187182Z"
+  },
+  {
+    "id": "a-quiet-place-2018-193",
+    "title": "A Quiet Place",
+    "year": 2018,
+    "directors": [
+      "John Krasinski"
+    ],
+    "cast": [],
+    "genres": [
+      "Horror"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2018..",
+    "synopsisLong": "An epic science fiction film released in 2018.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "horror",
+      "post-apocalyptic"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.5
+    },
+    "updatedAt": "2026-05-15T06:26:04.187196Z"
+  },
+  {
+    "id": "a-quiet-place-part-ii-2020",
+    "title": "A Quiet Place Part II",
+    "year": 2020,
+    "directors": [
+      "John Krasinski"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2020..",
+    "synopsisLong": "An epic science fiction film released in 2020.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "post-apocalyptic"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.2
+    },
+    "updatedAt": "2026-05-15T06:26:04.187214Z"
+  },
+  {
+    "id": "jurassic-world-dominion-2022",
+    "title": "Jurassic World: Dominion",
+    "year": 2022,
+    "directors": [
+      "Colin Trevorrow"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2022..",
+    "synopsisLong": "An epic science fiction film released in 2022.",
+    "keywords": [],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 5.6
+    },
+    "updatedAt": "2026-05-15T06:26:04.187227Z"
+  },
+  {
+    "id": "tremors-1990-196",
+    "title": "Tremors",
+    "year": 1990,
+    "directors": [
+      "Ron Underwood"
+    ],
+    "cast": [],
+    "genres": [
+      "Comedy"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1990..",
+    "synopsisLong": "An epic science fiction film released in 1990.",
+    "keywords": [
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.1
+    },
+    "updatedAt": "2026-05-15T06:26:04.187261Z"
+  },
+  {
+    "id": "cloverfield-2008-197",
+    "title": "Cloverfield",
+    "year": 2008,
+    "directors": [
+      "Matt Reeves"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2008..",
+    "synopsisLong": "An epic science fiction film released in 2008.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.0
+    },
+    "updatedAt": "2026-05-15T06:26:04.187274Z"
+  },
+  {
+    "id": "oblivion-2013-198",
+    "title": "Oblivion",
+    "year": 2013,
+    "directors": [
+      "Joseph Kosinski"
+    ],
+    "cast": [
+      "Tom Cruise",
+      "Morgan Freeman",
+      "Andrea Riseborough",
+      "Olga Kurylenko"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "A veteran assigned to extract Earth's remaining resources begins to question what he knows about his mission and himself..",
+    "synopsisLong": "A veteran assigned to extract Earth's remaining resources begins to question what he knows about his mission and himself.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "post-apocalyptic"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/xl2u7gAH0JfCyCHowerHTJCTMJH.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.0
+    },
+    "updatedAt": "2026-05-15T06:26:04.187292Z"
+  },
+  {
+    "id": "no-one-will-save-you-2023-199",
+    "title": "No One Will Save You",
+    "year": 2023,
+    "directors": [
+      "Brian Duffield"
+    ],
+    "cast": [],
+    "genres": [
+      "Horror"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2023..",
+    "synopsisLong": "An epic science fiction film released in 2023.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "horror"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.3
+    },
+    "updatedAt": "2026-05-15T06:26:04.187328Z"
+  },
+  {
+    "id": "species-1995-200",
+    "title": "Species",
+    "year": 1995,
+    "directors": [
+      "Roger Donaldson"
+    ],
+    "cast": [],
+    "genres": [
+      "Horror"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1995..",
+    "synopsisLong": "An epic science fiction film released in 1995.",
+    "keywords": [
+      "aliens",
+      "horror"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 5.9
+    },
+    "updatedAt": "2026-05-15T06:26:04.187342Z"
+  },
+  {
+    "id": "the-arrival-1996-201",
+    "title": "The Arrival",
+    "year": 1996,
+    "directors": [
+      "David Twohy"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction",
+      "Thriller"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1996..",
+    "synopsisLong": "An epic science fiction film released in 1996.",
+    "keywords": [
+      "aliens"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.3
+    },
+    "updatedAt": "2026-05-15T06:26:04.188348Z"
+  },
+  {
+    "id": "sphere-1998-202",
+    "title": "Sphere",
+    "year": 1998,
+    "directors": [
+      "Barry Levinson"
+    ],
+    "cast": [
+      "Joaquin Phoenix",
+      "Amy Adams",
+      "Scarlett Johansson",
+      "Rooney Mara"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need..",
+    "synopsisLong": "In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/ezxNlyr05joU1bHcKv9EHZo8gTl.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 6.1
+    },
+    "updatedAt": "2026-05-15T06:26:04.188481Z"
+  },
+  {
+    "id": "the-faculty-1998-203",
+    "title": "The Faculty",
+    "year": 1998,
+    "directors": [
+      "Robert Rodriguez"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1998..",
+    "synopsisLong": "An epic science fiction film released in 1998.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.6
+    },
+    "updatedAt": "2026-05-15T06:26:04.188522Z"
+  },
+  {
+    "id": "deep-impact-1998",
+    "title": "Deep Impact",
+    "year": 1998,
+    "directors": [
+      "Mimi Leder"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1998..",
+    "synopsisLong": "An epic science fiction film released in 1998.",
+    "keywords": [
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.2
+    },
+    "updatedAt": "2026-05-15T06:26:04.188561Z"
+  },
+  {
+    "id": "daylight-1996",
+    "title": "Daylight",
+    "year": 1996,
+    "directors": [
+      "Rob Cohen"
+    ],
+    "cast": [],
+    "genres": [
+      "Thriller"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1996..",
+    "synopsisLong": "An epic science fiction film released in 1996.",
+    "keywords": [],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 5.9
+    },
+    "updatedAt": "2026-05-15T06:26:04.188577Z"
+  },
+  {
+    "id": "dante-s-peak-1997",
+    "title": "Dante's Peak",
+    "year": 1997,
+    "directors": [
+      "Roger Donaldson"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction",
+      "Thriller"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1997..",
+    "synopsisLong": "An epic science fiction film released in 1997.",
+    "keywords": [],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.0
+    },
+    "updatedAt": "2026-05-15T06:26:04.188590Z"
+  },
+  {
+    "id": "lilo-stitch-2002",
+    "title": "Lilo & Stitch",
+    "year": 2002,
+    "directors": [
+      "Dean DeBlois",
+      "Chris Sanders"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2002..",
+    "synopsisLong": "An epic science fiction film released in 2002.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.3
+    },
+    "updatedAt": "2026-05-15T06:26:04.188615Z"
+  },
+  {
+    "id": "treasure-planet-2002",
+    "title": "Treasure Planet",
+    "year": 2002,
+    "directors": [
+      "Ron Clements",
+      "John Musker"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2002..",
+    "synopsisLong": "An epic science fiction film released in 2002.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "space"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.2
+    },
+    "updatedAt": "2026-05-15T06:26:04.188627Z"
+  },
+  {
+    "id": "atlantis-the-lost-empire-2001",
+    "title": "Atlantis: The Lost Empire",
+    "year": 2001,
+    "directors": [
+      "Gary Trousdale",
+      "Kirk Wise"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2001..",
+    "synopsisLong": "An epic science fiction film released in 2001.",
+    "keywords": [
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.9
+    },
+    "updatedAt": "2026-05-15T06:26:04.188641Z"
+  }
+]

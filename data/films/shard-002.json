@@ -1,0 +1,803 @@
+[
+  {
+    "id": "the-incredibles-2004",
+    "title": "The Incredibles",
+    "year": 2004,
+    "directors": [
+      "Brad Bird"
+    ],
+    "cast": [
+      "Craig T. Nelson",
+      "Holly Hunter",
+      "Samuel L. Jackson",
+      "Jason Lee"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "A family of undercover superheroes, while trying to live the quiet suburban life, are forced into action to save the world..",
+    "synopsisLong": "A family of undercover superheroes, while trying to live the quiet suburban life, are forced into action to save the world.",
+    "keywords": [
+      "strong-writing",
+      "superhero"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58BcGH.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 8.0
+    },
+    "updatedAt": "2026-05-15T06:26:04.184299Z"
+  },
+  {
+    "id": "doctor-strange-2016",
+    "title": "Doctor Strange",
+    "year": 2016,
+    "directors": [
+      "Scott Derrickson"
+    ],
+    "cast": [
+      "Benedict Cumberbatch",
+      "Chiwetel Ejiofor",
+      "Rachel McAdams",
+      "Benedict Wong"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "While on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts..",
+    "synopsisLong": "While on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.5
+    },
+    "updatedAt": "2026-05-15T06:26:04.184335Z"
+  },
+  {
+    "id": "ant-man-2015",
+    "title": "Ant-Man",
+    "year": 2015,
+    "directors": [
+      "Peyton Reed"
+    ],
+    "cast": [
+      "Paul Rudd",
+      "Michael Douglas",
+      "Evangeline Lilly",
+      "Corey Stoll"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor pull off a heist..",
+    "synopsisLong": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor pull off a heist.",
+    "keywords": [
+      "strong-writing",
+      "superhero"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/D6e8R/2nPyoX8a6TK7g8sP5s5s5s5s5s.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.3
+    },
+    "updatedAt": "2026-05-15T06:26:04.184347Z"
+  },
+  {
+    "id": "prey-2022",
+    "title": "Prey",
+    "year": 2022,
+    "directors": [
+      "Dan Trachtenberg"
+    ],
+    "cast": [
+      "Amber Midthunder",
+      "Dakota Beavers",
+      "Dane DiLiegro",
+      "Stormee Kipp"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "The origin story of the Predator in the world of the Comanche Nation 300 years ago.",
+    "synopsisLong": "The origin story of the Predator in the world of the Comanche Nation 300 years ago. Naru, a skilled warrior, fights to protect her tribe against one of the first highly-evolved Predators.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/ujr5pztc1ute1jEpBI6xZK8w0hC.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.1
+    },
+    "updatedAt": "2026-05-15T06:26:04.184357Z"
+  },
+  {
+    "id": "avengers-age-of-ultron-2015",
+    "title": "Avengers: Age of Ultron",
+    "year": 2015,
+    "directors": [
+      "Joss Whedon"
+    ],
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Hemsworth",
+      "Mark Ruffalo",
+      "Chris Evans"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it's up to Earth's mightiest heroes to stop the villainous Ultron..",
+    "synopsisLong": "When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it's up to Earth's mightiest heroes to stop the villainous Ultron.",
+    "keywords": [
+      "strong-writing",
+      "superhero"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/4ssDuvEDTSSfSujKd9fsrquvPJj.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.3
+    },
+    "updatedAt": "2026-05-15T06:26:04.184370Z"
+  },
+  {
+    "id": "total-recall-1990",
+    "title": "Total Recall",
+    "year": 1990,
+    "directors": [
+      "Paul Verhoeven"
+    ],
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Sharon Stone",
+      "Michael Ironside",
+      "Rachel Ticotin"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "synopsisShort": "When a man goes in to have virtual vacation memories of the planet Mars implanted in his mind, an unexpected and harrowing series of events forces him to go to the planet for real..",
+    "synopsisLong": "When a man goes in to have virtual vacation memories of the planet Mars implanted in his mind, an unexpected and harrowing series of events forces him to go to the planet for real.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "action",
+      "cyberpunk"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/yFULm2g22xym8fHXpM7TYR4g5Y3.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.5
+    },
+    "updatedAt": "2026-05-15T06:26:04.184382Z"
+  },
+  {
+    "id": "source-code-2011",
+    "title": "Source Code",
+    "year": 2011,
+    "directors": [
+      "Duncan Jones"
+    ],
+    "cast": [
+      "Jake Gyllenhaal",
+      "Michelle Monaghan",
+      "Vera Farmiga",
+      "Jeffrey Wright"
+    ],
+    "genres": [
+      "Thriller"
+    ],
+    "synopsisShort": "A soldier wakes up in someone else's body and discovers he's part of an experimental government program to find the bomber of a commuter train..",
+    "synopsisLong": "A soldier wakes up in someone else's body and discovers he's part of an experimental government program to find the bomber of a commuter train.",
+    "keywords": [
+      "strong-writing",
+      "time-travel"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/rB5sM5x7X5eR8q0W7t0W7t0W7t0W.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.5
+    },
+    "updatedAt": "2026-05-15T06:26:04.184398Z"
+  },
+  {
+    "id": "predator-2-1990",
+    "title": "Predator 2",
+    "year": 1990,
+    "directors": [
+      "Stephen Hopkins"
+    ],
+    "cast": [
+      "Danny Glover",
+      "Gary Busey",
+      "Kevin Peter Hall",
+      "Rub\u00e9n Blades"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1990..",
+    "synopsisLong": "An epic science fiction film released in 1990.",
+    "keywords": [
+      "aliens"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/d0oq8fLQL8kF9dF5C7C7d5C7C7C.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 6.3
+    },
+    "updatedAt": "2026-05-15T06:26:04.184411Z"
+  },
+  {
+    "id": "war-for-the-planet-of-the-apes-2017",
+    "title": "War for the Planet of the Apes",
+    "year": 2017,
+    "directors": [
+      "Matt Reeves"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2017..",
+    "synopsisLong": "An epic science fiction film released in 2017.",
+    "keywords": [
+      "strong-writing",
+      "post-apocalyptic"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.4
+    },
+    "updatedAt": "2026-05-15T06:26:04.184436Z"
+  },
+  {
+    "id": "looper-2012",
+    "title": "Looper",
+    "year": 2012,
+    "directors": [
+      "Rian Johnson"
+    ],
+    "cast": [],
+    "genres": [
+      "Action"
+    ],
+    "synopsisShort": "In 2074, when the mob wants to get rid of someone, the target is sent into the past, where a hired gun awaits..",
+    "synopsisLong": "In 2074, when the mob wants to get rid of someone, the target is sent into the past, where a hired gun awaits.",
+    "keywords": [
+      "strong-writing",
+      "time-travel",
+      "action"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/sNjL6SqErDBE8OUZlrDLkexfsCj.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.4
+    },
+    "updatedAt": "2026-05-15T06:26:04.184448Z"
+  },
+  {
+    "id": "predestination-2014",
+    "title": "Predestination",
+    "year": 2014,
+    "directors": [
+      "Michael Spierig",
+      "Peter Spierig"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2014..",
+    "synopsisLong": "An epic science fiction film released in 2014.",
+    "keywords": [
+      "strong-writing",
+      "time-travel"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.4
+    },
+    "updatedAt": "2026-05-15T06:26:04.184459Z"
+  },
+  {
+    "id": "galaxy-quest-1999",
+    "title": "Galaxy Quest",
+    "year": 1999,
+    "directors": [
+      "Dean Parisot"
+    ],
+    "cast": [],
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1999..",
+    "synopsisLong": "An epic science fiction film released in 1999.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "space"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.4
+    },
+    "updatedAt": "2026-05-15T06:26:04.184482Z"
+  },
+  {
+    "id": "starship-troopers-1997",
+    "title": "Starship Troopers",
+    "year": 1997,
+    "directors": [
+      "Paul Verhoeven"
+    ],
+    "cast": [
+      "Casper Van Dien",
+      "Dina Meyer",
+      "Denise Richards",
+      "Jake Busey"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "Humans in a fascistic, militaristic future do battle with giant alien bugs in a fight for survival..",
+    "synopsisLong": "Humans in a fascistic, militaristic future do battle with giant alien bugs in a fight for survival.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "space"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/cvX8zP1vFY5fWo7IdHd6QqQvY8u.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.3
+    },
+    "updatedAt": "2026-05-15T06:26:04.184494Z"
+  },
+  {
+    "id": "alita-battle-angel-2019",
+    "title": "Alita: Battle Angel",
+    "year": 2019,
+    "directors": [
+      "Robert Rodriguez"
+    ],
+    "cast": [],
+    "genres": [
+      "Action"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2019..",
+    "synopsisLong": "An epic science fiction film released in 2019.",
+    "keywords": [
+      "strong-writing",
+      "action",
+      "cyberpunk",
+      "post-apocalyptic"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.3
+    },
+    "updatedAt": "2026-05-15T06:26:04.184507Z"
+  },
+  {
+    "id": "incredibles-2-2018",
+    "title": "Incredibles 2",
+    "year": 2018,
+    "directors": [
+      "Brad Bird"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction",
+      "Action"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2018..",
+    "synopsisLong": "An epic science fiction film released in 2018.",
+    "keywords": [
+      "strong-writing",
+      "action",
+      "superhero"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.6
+    },
+    "updatedAt": "2026-05-15T06:26:04.184519Z"
+  },
+  {
+    "id": "dark-city-1998",
+    "title": "Dark City",
+    "year": 1998,
+    "directors": [
+      "Alex Proyas"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1998..",
+    "synopsisLong": "An epic science fiction film released in 1998.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "cyberpunk"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.6
+    },
+    "updatedAt": "2026-05-15T06:26:04.184538Z"
+  },
+  {
+    "id": "arrival-2016",
+    "title": "Arrival",
+    "year": 2016,
+    "directors": [
+      "Denis Villeneuve"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2016..",
+    "synopsisLong": "An epic science fiction film released in 2016.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.9
+    },
+    "updatedAt": "2026-05-15T06:26:04.184561Z"
+  },
+  {
+    "id": "star-trek-2009",
+    "title": "Star Trek",
+    "year": 2009,
+    "directors": [
+      "J.J. Abrams"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2009..",
+    "synopsisLong": "An epic science fiction film released in 2009.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "space"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.9
+    },
+    "updatedAt": "2026-05-15T06:26:04.184575Z"
+  },
+  {
+    "id": "the-abyss-1989",
+    "title": "The Abyss",
+    "year": 1989,
+    "directors": [
+      "James Cameron"
+    ],
+    "cast": [
+      "Ed Harris",
+      "Mary Elizabeth Mastrantonio",
+      "Michael Biehn",
+      "Leo Burmester"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "A civilian diving team is enlisted to search for a lost nuclear submarine and faces danger while encountering an alien aquatic species..",
+    "synopsisLong": "A civilian diving team is enlisted to search for a lost nuclear submarine and faces danger while encountering an alien aquatic species.",
+    "keywords": [
+      "aliens",
+      "strong-writing"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/kx2YVkEqE1I3XWU9VbY8P4f1f1f.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.5
+    },
+    "updatedAt": "2026-05-15T06:26:04.184586Z"
+  },
+  {
+    "id": "independence-day-1996",
+    "title": "Independence Day",
+    "year": 1996,
+    "directors": [
+      "Roland Emmerich"
+    ],
+    "cast": [
+      "Will Smith",
+      "Bill Pullman",
+      "Jeff Goldblum",
+      "Mary McDonnell"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "The aliens are coming and their goal is to invade and destroy Earth.",
+    "synopsisLong": "The aliens are coming and their goal is to invade and destroy Earth. Fighting superior technology, mankind's best weapon is the will to survive.",
+    "keywords": [
+      "aliens"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/b1xCNfMPi77y7G4k0v8m3Q8Q8Q8.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.0
+    },
+    "updatedAt": "2026-05-15T06:26:04.184597Z"
+  },
+  {
+    "id": "upgrade-2018",
+    "title": "Upgrade",
+    "year": 2018,
+    "directors": [
+      "Leigh Whannell"
+    ],
+    "cast": [],
+    "genres": [
+      "Horror"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2018..",
+    "synopsisLong": "An epic science fiction film released in 2018.",
+    "keywords": [
+      "strong-writing",
+      "horror",
+      "cyberpunk"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.5
+    },
+    "updatedAt": "2026-05-15T06:26:04.184608Z"
+  },
+  {
+    "id": "equilibrium-2002",
+    "title": "Equilibrium",
+    "year": 2002,
+    "directors": [
+      "Kurt Wimmer"
+    ],
+    "cast": [],
+    "genres": [
+      "Action"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2002..",
+    "synopsisLong": "An epic science fiction film released in 2002.",
+    "keywords": [
+      "strong-writing",
+      "dystopian",
+      "action"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.3
+    },
+    "updatedAt": "2026-05-15T06:26:04.184624Z"
+  },
+  {
+    "id": "i-robot-2004",
+    "title": "I, Robot",
+    "year": 2004,
+    "directors": [
+      "Alex Proyas"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2004..",
+    "synopsisLong": "An epic science fiction film released in 2004.",
+    "keywords": [
+      "strong-writing",
+      "cyberpunk"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.1
+    },
+    "updatedAt": "2026-05-15T06:26:04.184636Z"
+  },
+  {
+    "id": "dredd-2012",
+    "title": "Dredd",
+    "year": 2012,
+    "directors": [
+      "Pete Travis"
+    ],
+    "cast": [],
+    "genres": [
+      "Action"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2012..",
+    "synopsisLong": "An epic science fiction film released in 2012.",
+    "keywords": [
+      "strong-writing",
+      "dystopian",
+      "action",
+      "cyberpunk"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.1
+    },
+    "updatedAt": "2026-05-15T06:26:04.184647Z"
+  },
+  {
+    "id": "sunshine-2007",
+    "title": "Sunshine",
+    "year": 2007,
+    "directors": [
+      "Danny Boyle"
+    ],
+    "cast": [],
+    "genres": [
+      "Thriller"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2007..",
+    "synopsisLong": "An epic science fiction film released in 2007.",
+    "keywords": [
+      "strong-writing",
+      "space"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.2
+    },
+    "updatedAt": "2026-05-15T06:26:04.184669Z"
+  },
+  {
+    "id": "28-days-later-2002",
+    "title": "28 Days Later",
+    "year": 2002,
+    "directors": [
+      "Danny Boyle"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction",
+      "Horror"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2002..",
+    "synopsisLong": "An epic science fiction film released in 2002.",
+    "keywords": [
+      "strong-writing",
+      "horror"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.5
+    },
+    "updatedAt": "2026-05-15T06:26:04.184695Z"
+  },
+  {
+    "id": "prometheus-2012",
+    "title": "Prometheus",
+    "year": 2012,
+    "directors": [
+      "Ridley Scott"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction",
+      "Horror"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2012..",
+    "synopsisLong": "An epic science fiction film released in 2012.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "horror"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.0
+    },
+    "updatedAt": "2026-05-15T06:26:04.184707Z"
+  },
+  {
+    "id": "pitch-black-2000",
+    "title": "Pitch Black",
+    "year": 2000,
+    "directors": [
+      "David Twohy"
+    ],
+    "cast": [
+      "Vin Diesel",
+      "Radha Mitchell",
+      "Cole Hauser",
+      "Keith David"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "A commercial transport ship and its crew are marooned on a planet full of bloodthirsty creatures that only come out to feast at night..",
+    "synopsisLong": "A commercial transport ship and its crew are marooned on a planet full of bloodthirsty creatures that only come out to feast at night.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "space"
+    ],
+    "posterPath": "https://image.tmdb.org/t/p/w500/3m0M8Wd8X5Y8q8Y8q8Y8q8Y8q8Y.jpg",
+    "rating": {
+      "source": "imdb",
+      "value": 7.0
+    },
+    "updatedAt": "2026-05-15T06:26:04.184732Z"
+  },
+  {
+    "id": "star-trek-beyond-2016",
+    "title": "Star Trek Beyond",
+    "year": 2016,
+    "directors": [
+      "Justin Lin"
+    ],
+    "cast": [],
+    "genres": [
+      "Action"
+    ],
+    "synopsisShort": "An epic science fiction film released in 2016..",
+    "synopsisLong": "An epic science fiction film released in 2016.",
+    "keywords": [
+      "aliens",
+      "strong-writing",
+      "space",
+      "action"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 7.0
+    },
+    "updatedAt": "2026-05-15T06:26:04.184747Z"
+  },
+  {
+    "id": "star-wars-episode-i-the-phantom-menace-1999",
+    "title": "Star Wars: Episode I \u2013 The Phantom Menace",
+    "year": 1999,
+    "directors": [
+      "George Lucas"
+    ],
+    "cast": [],
+    "genres": [
+      "Science Fiction"
+    ],
+    "synopsisShort": "An epic science fiction film released in 1999..",
+    "synopsisLong": "An epic science fiction film released in 1999.",
+    "keywords": [
+      "aliens",
+      "space"
+    ],
+    "posterPath": "",
+    "rating": {
+      "source": "imdb",
+      "value": 6.5
+    },
+    "updatedAt": "2026-05-15T06:26:04.184765Z"
+  }
+]
